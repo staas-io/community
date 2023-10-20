@@ -1,0 +1,11 @@
+# Getting Started with Staas.io
+
+This section of the Staas.io docs is all about getting you up and running quickly.
+
+Follow [Hands-on]() which takes you through creating an account, creating a new stack and launching a simple demo app.
+
+If you’d rather jump right in, try [Speedrun]() to launch your own app fast.
+
+Once that’s done, check out our in-depth docs:
+
+TBA
