@@ -1,3 +1,10 @@
+---
+layout: default
+title: Deploy a WordPress with Staas.io
+parent: Getting Started
+nav_order: 3
+---
+
 # Introduction
 Complete this tutorial to deploy a sample Wordpress app via Staas.
 

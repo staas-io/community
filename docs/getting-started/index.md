@@ -1,3 +1,10 @@
+---
+layout: default
+title: Getting Started
+nav_order: 2
+has_children: true
+---
+
 # Getting Started with Staas.io
 
 This section of the Staas.io docs is all about getting you up and running quickly.
