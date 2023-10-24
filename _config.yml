@@ -3,3 +3,6 @@ description: Documentation for STaaS
 theme: just-the-docs
 
 url: https://staas-io.github.io/
+
+# For copy button on code
+enable_copy_code_button: true
