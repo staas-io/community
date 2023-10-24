@@ -40,7 +40,7 @@ Staas.io leverages Git as the primary method to deploy applications, although th
 
 When you create an stack on Staas.io, it sets up a new Git remote, usually named `staas`, connected to your local Git repository.
 
-Deploying your code is as straightforward as using the familiar `git push` command, but directed to the `staas` remote:
+Deploying your code is as straightforward as using the familiar `git push` command, but directed to the `staas` remote, assuming your current branch is `master`:
 
 ```shell
 git push -f staas master master:deploy
