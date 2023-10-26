@@ -55,7 +55,7 @@ Checking out your new domain by clicking on **Domain** button. It will open up y
 
 You must setup your SSH key with your account in order to push to your Staas.io remote. This process is done once and it will be associcated with your account.
 
-Please read [SSH Keys]() page to learn how to create your SSH key.
+Please read [SSH Keys](../ssh-keys.html) page to learn how to create your SSH key.
 
 Now go to your Stass.io [Profile](https://www.staas.io/dashboard/profile) page. In the Security section at the bottom, paste your SSH public key in the "New RSA public key with valid format" input box and press Add.
 ![](../../assets/images/getting-started/profile-add-ssh-key.jpg)

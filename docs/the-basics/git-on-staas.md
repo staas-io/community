@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Deploying with Git
-nav_order: 4
+parent: The Basics
+nav_order: 2
 ---
 
 # Deploying with Git
@@ -10,6 +11,8 @@ nav_order: 4
 - Github repo binding (optional -->
 
 Staas.io simplifies application deployments by integrating seamlessly with Git, the widely used version control system.
+
+Git is a distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers who are collaboratively developing source code during software development.
 
 This article serves as a guide, detailing how to deploy code effortlessly using Git and Staas.io Git remotes. By following these steps, you can efficiently manage your application deployments, making the process straightforward and accessible even for those with limited Git expertise.
 
@@ -95,7 +98,7 @@ Instead of adding another remote (e.g. `staas`) to your code, binding allows you
 Another major difference of this method is that Staas.io will build your application with the source code from the branch `staas` instead of `master`.
 
 Assuming you are currently on your `master` branch, the example steps to trigger the build are:
-```
+```shell
 $ cd hello-github-binding
 $ git push -f origin master:staas
 Enumerating objects: 8, done.

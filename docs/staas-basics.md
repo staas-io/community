@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Staas Fundamental Concepts
+title: Working with Staas
 nav_order: 3
 ---
 
-# Staas Fundamental Concepts
+# Working with Staas
 
 This section provides a basic and technical overview of the functioning of Staas.io.
 It explains various concepts involved in the process of writing, configuring, deploying, and operating applications on the Staas.io platform.
