@@ -2,7 +2,8 @@ title: STack As A Service Documentations
 description: Documentation for STaaS
 theme: just-the-docs
 
-url: https://staas-io.github.io/
+# url: https://staas-io.github.io/
+url: https://docs.staas.io/
 
 # For copy button on code
 enable_copy_code_button: true
