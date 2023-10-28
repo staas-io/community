@@ -39,7 +39,7 @@ Press Create and your stack will be created momentarily. An email will be sent t
 ### Manage your Stack in the Dashboard
 Once you created the stack, you will be greeted with a Stack Management screen.
 
-Checking out your new domain by clicking on **Domain** button. It will open up your designated domain in a new tab.
+Checking out your new domain by clicking on [Domain](){: .btn .btn-purple .ml-2 } button. It will open up your designated domain in a new tab.
 
 ## Set up your WordPress page
 You will be greeted with a installation process to setup your WordPress page.

@@ -45,7 +45,7 @@ Once you created the stack, you will be greeted with a Stack Management screen.
 
 In this screen, you can pretty much control everything regarding to your stack/instance with just a few mouse clicks.
 
-Checking out your new domain by clicking on **Domain** button. It will open up your designated domain in a new tab. For now, it is just a basic page with a "Hello World, This Is STAAS!" message.
+Checking out your new domain by clicking on [Domain](){: .btn .btn-purple .ml-2 .mr-2 } button. It will open up your designated domain in a new tab. For now, it is just a basic page with a "Hello World, This Is STAAS!" message.
 ![](../../assets/images/getting-started/python-domain-default-screen.jpg)
 
 
@@ -64,7 +64,7 @@ Now you can select your public key in the "Public keys" dropdown just above.
 
 That's it for the SSH key setup. You can now push your code to your Staas.io's remote.
 
-#### Deploying the app
+### Deploying the app
 Clone the sample FastAPI app that Staas had prepared for you. Execute these in your local terminal:
 ```
 $ git clone https://github.com/staas-io/getting-started-python.git
@@ -73,7 +73,7 @@ $ cd getting-started-python
 
 Now back to the dashboard.
 
-Click on the GIT button, you will see a Git remote URI and some instructions on how to deploy the code to your stack instance. Git remotes are versions of your repository that live on other servers. You deploy your app by pushing its code to that Staas remote associated with your app.
+Click on the [GIT](){: .btn .btn-purple .ml-2 } button, you will see a Git remote URI and some instructions on how to deploy the code to your stack instance. Git remotes are versions of your repository that live on other servers. You deploy your app by pushing its code to that Staas remote associated with your app.
 ![](../../assets/images/getting-started/python-git-button-dropdown.jpg)
 
 Here's how to do it with this repo:

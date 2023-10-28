@@ -44,14 +44,17 @@ While deploying your stack to Staas.io, you will need to add Staas.io's remote t
 $ git remote add staas git@git.staas.io:<your_staas_username>/<your_stack_name>.git
 ```
 
-The correct command will be displayed on your stack's dashboard when you click on the button GIT. Here's how it looks like:
+The correct command will be displayed on your stack's dashboard when you click on the [GIT](){: .btn .btn-purple .ml-2 } button. Here's how it looks like:
 <!-- <image> -->
 
 After you have run the command, your repository will have 2 remotes: `origin` and `staas`.
-To check your remote, use the command:
+To check your remote, use the command `git remote -v` and you'll get something similar to this:
 ```shell
 $ git remote -v
-...
+origin  git@github.com:staas-io/hello-staas.git (fetch)
+origin  git@github.com:staas-io/hello-staas.git (push)
+staas   git@git.staas.io:staas-username/stackname1234.git (fetch)
+staas   git@git.staas.io:staas-username/stackname1234.git (push)
 ```
 
 ## Deploying Your Code
@@ -90,7 +93,7 @@ This method only works with your public repositories.
 
 ### Build your Application via Github Binding
 
-Step 1: Select repo to bind -> Press BIND
+Step 1: Select repo to bind -> Press [BIND](){: .btn .btn-purple .ml-2 }
 
 Step 2:
 Instead of adding another remote (e.g. `staas`) to your code, binding allows you to trigger staas build by pushing to a branch named `staas` to the remote `origin` in your own repository.
