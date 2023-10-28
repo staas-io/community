@@ -93,7 +93,8 @@ This method only works with your public repositories.
 
 ### Build your Application via Github Binding
 
-Step 1: Select repo to bind -> Press [BIND](){: .btn .btn-purple .ml-2 }
+Step 1: Select a repo from the dropdown list -> Press [BIND](){: .btn .btn-purple .ml-2 }
+<!-- <image> -->
 
 Step 2:
 Instead of adding another remote (e.g. `staas`) to your code, binding allows you to trigger staas build by pushing to a branch named `staas` to the remote `origin` in your own repository.

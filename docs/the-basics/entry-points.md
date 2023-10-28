@@ -7,7 +7,7 @@ nav_order: 5
 
 # Entry Points
 
-Running your application on Staas.io generally requires minimal changes.
+Running your application on Staas.io generally requires minimal changes to your application.
 One essential requirement is specifying which parts of your application are executable on the platform.
 
 An entry point or Procfile is a configuration file that specifies the commands that are executed by the app on startup. It provides instructions to Staas.io on how to run the application. The Procfile is particularly important because it tells Staas.io which parts of your application are runnable.
