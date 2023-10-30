@@ -14,13 +14,13 @@ We're thrilled to have you here at Staas.io's Documentation Center, your go-to r
 
 At Staas.io, we're committed to making your experience as smooth and productive as possible. Our comprehensive documentation covers a wide range of topics, from getting started guides to advanced tutorials. Here's what you can expect to find:
 
-### [Getting Started](docs/getting-started/index)
+### [Getting Started]({% link docs/getting-started/index.md %})
 If you're new to Staas.io, our getting-started guides are tailored just for you. Learn the essentials of setting up your account, navigating our user-friendly interface, and deploying your very first application hassle-free.
 
-### [The Basics](docs/the-basics/index)
+### [The Basics]({% link docs/the-basics/index.md %})
 Master the fundamental aspects of Staas.io with our basics guides. From understanding core features to optimizing your workflow, these resources provide a solid foundation for your Staas.io experience.
 
-### [Advanced Features](docs/advanced-features/index)
+### [Advanced Features]()
 Ready to explore the advanced capabilities of Staas.io? Our guides on advanced features take you beyond the basics. Dive into automation, collaborative tools, and customization options to enhance your applications further.
 
 

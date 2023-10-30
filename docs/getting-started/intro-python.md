@@ -11,7 +11,7 @@ Complete this tutorial to deploy a sample Python FastAPI app to Staas.
 
 Requirements:
 - A verified Staas.io account.
-- Python 3.9 installed locally - see the Python's official installation guides for [OS X](https://docs.python-guide.org/starting/install3/osx/), [Windows](https://docs.python-guide.org/starting/install3/win/), and [Linux](https://docs.python-guide.org/starting/install3/linux/).
+<!-- - Python 3.9 installed locally - see the Python's official installation guides for [OS X](https://docs.python-guide.org/starting/install3/osx/), [Windows](https://docs.python-guide.org/starting/install3/win/), and [Linux](https://docs.python-guide.org/starting/install3/linux/). -->
 - [Git](https://git-scm.com/) installed. If you don't have Git installed, please complete the guides before proceeding:
     - [Git installation](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
     - [First-time setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
@@ -25,7 +25,7 @@ Staas.io gives you more controls with the instance you run your app on.
 Go to your [Staas.io Dashboard](https://www.staas.io/dashboard)
 ![](../../assets/images/getting-started/staas-dashboard.jpg)
 
-Click on "Create new stack +".
+Click on [Create new stack +](){: .btn .btn-purple .ml-2 .mr-2 }.
 From this screen, you can select your stack of choice including Programming Languages, Databases and Applications. In this tutorial, we'll select Python.
 ![](../../assets/images/getting-started/python-create-stack-screen.jpg)
 
@@ -55,7 +55,7 @@ Checking out your new domain by clicking on [Domain](){: .btn .btn-purple .ml-2 
 
 You must setup your SSH key with your account in order to push to your Staas.io remote. This process is done once and it will be associcated with your account.
 
-Please read [SSH Keys](../ssh-keys.html) page to learn how to create your SSH key.
+Please read [SSH Keys]({% link docs/ssh-keys.md %}) page to learn how to create your SSH key.
 
 Now go to your Stass.io [Profile](https://www.staas.io/dashboard/profile) page. In the Security section at the bottom, paste your SSH public key in the "New RSA public key with valid format" input box and press Add.
 ![](../../assets/images/getting-started/profile-add-ssh-key.jpg)
@@ -230,6 +230,6 @@ To git.staas.io:duytue/pythonland7570.git
  + 7d93219...3835a97 master -> master (forced update)
 ```
 
-The application is deployed. You can visit the app by clicking **Domain** on the dashboard.
+The application is deployed. You can visit the app by clicking [Domain](){: .btn .btn-purple .ml-2 .mr-2 } on the dashboard.
 
 Congratulations, you have successfully deployed a Python app with Staas.io.

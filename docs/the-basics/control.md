@@ -11,7 +11,6 @@ In your stack's dashboard, you can see a Control section on the right side of th
 The control dashboard is a centralized interface designed to efficiently manage various aspects of your stack.
 It offers a range of functionalities, making it a robust tool for system administrators and developers.
 
-<!-- [COMMAND](){: .btn .btn-purple .ml-1 .mr-1 } -->
 The **Command** section allows you to perform essential operations like deploying new updates, initiating builds, restarting services, executing shell scripts, and deleting your stack.
 
 The **History** feature provides a historical view of changes made over time, enabling users to revert to previous versions in case of issues.
