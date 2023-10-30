@@ -4,33 +4,35 @@ layout: home
 nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Staas.io Documentations
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Welcome to Staas.io!
 
-More specifically, the created site:
+We're thrilled to have you here at Staas.io's Documentation Center, your go-to resource for all things related to our powerful platform. Whether you're a seasoned developer, an aspiring entrepreneur, or someone just starting their coding journey, this is the place to be.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+## What Can You Expect?
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+At Staas.io, we're committed to making your experience as smooth and productive as possible. Our comprehensive documentation covers a wide range of topics, from getting started guides to advanced tutorials. Here's what you can expect to find:
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+### [Getting Started](docs/getting-started/index)
+If you're new to Staas.io, our getting-started guides are tailored just for you. Learn the essentials of setting up your account, navigating our user-friendly interface, and deploying your very first application hassle-free.
 
-To get started with creating a site, simply:
+### [The Basics](docs/the-basics/index)
+Master the fundamental aspects of Staas.io with our basics guides. From understanding core features to optimizing your workflow, these resources provide a solid foundation for your Staas.io experience.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+### [Advanced Features](docs/advanced-features/index)
+Ready to explore the advanced capabilities of Staas.io? Our guides on advanced features take you beyond the basics. Dive into automation, collaborative tools, and customization options to enhance your applications further.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
 
-----
+---
+## Your Feedback Matters!
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+We value your feedback immensely. If you have suggestions, questions, or if there's a topic you'd like us to cover in our documentation, don't hesitate to reach out. Staas.io is designed to grow and evolve with your needs, and your input plays a significant role in shaping our platform.
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+Let's Get Started!
+
+Ready to explore the endless possibilities with Staas.io? Dive into our documentation, embark on your learning journey, and experience the simplicity and power of our platform. Thank you for choosing Staas.io — your adventure in hassle-free application deployment begins here!
+
+Happy Deploying!
+
+The Staas.io Team
