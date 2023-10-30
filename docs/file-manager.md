@@ -39,7 +39,7 @@ Once signed in, you will be greeted with the File Manager's main screen.
 
 ## Functionalities
 
-Staas.io's File Manager offers you unparalleled control over your stack's system files. With this feature, you gain the ability to perform a variety of essential actions, ensuring a seamless and efficient file management experience. Here's what you can do:
+Staas.io's File Manager offers you complete control over your stack's system files. With this feature, you gain the ability to perform a variety of essential actions, ensuring a seamless and efficient file management experience. Here's what you can do:
 
 1. **Copy**:
 Easily duplicate files and directories within your stack, allowing you to maintain multiple versions or create backups effortlessly.
