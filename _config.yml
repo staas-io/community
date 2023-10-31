@@ -1,5 +1,8 @@
-title: STack As A Service Documentations
-description: Documentation for STaaS
+logo: "/assets/images/logo_full_small_200.png"
+favicon_ico: "/assets/images/favicon.ico"
+
+title: STAAS - Stacks As a Service
+description: Documentation
 theme: just-the-docs
 
 # url: https://staas-io.github.io/
@@ -7,3 +10,59 @@ url: https://docs.staas.io/
 
 # For copy button on code
 enable_copy_code_button: true
+
+# Enable or disable heading anchors
+heading_anchors: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "Home":
+    - "https://www.staas.io/"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
+# Sort order for navigation links
+# nav_sort: case_insensitive # default, equivalent to nil
+nav_sort: case_sensitive # Capital letters sorted before lowercase
+
+# External navigation links
+nav_external_links:
+  - title: Home
+    url: https://www.staas.io/
+  - title: Dashboard
+    url: https://www.staas.io/dashboard
+
+search_enabled: true
+
+# Footer content
+# appears at the bottom of every page's main content
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Top"
+
+footer_content: "&copy; staas.io - All Rights Reserved"
+
+color_scheme: dark
+
+
+ga_tracking: G-EBPE22NVEQ
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-include-cache
+
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
