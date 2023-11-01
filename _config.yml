@@ -52,17 +52,3 @@ ga_tracking: G-EBPE22NVEQ
 plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
-
-
-kramdown:
-  syntax_highlighter_opts:
-    block:
-      line_numbers: true
-
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  startings: []
-  blanklines: false
-  profile: false
