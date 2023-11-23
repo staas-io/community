@@ -1,7 +1,7 @@
 ---
 title: SSH Key Pairs
 layout: default
-nav_order: 99
+nav_order: 10
 ---
 
 # SSH Key Pairs
