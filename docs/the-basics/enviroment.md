@@ -38,7 +38,7 @@ To access this screen, in your Stack's Dashboard, check the box: **"I understand
 
 <!-- All set variables are shown in this list Most of configured environment variables is -->
 
-Editing a variable is as simple as update the value in the text box and clicking the [Update](){: .btn .btn-purple .ml-2 } or [Del](){: .btn .btn-red .ml-2 } buttons on the right.
+Editing a variable is as simple as update the value in the text box and clicking the [Update](){: .btn .btn-purple .ml-2 } or [Del](){: .btn .btn-danger .ml-2 } buttons on the right.
 
 To add a new variable, in the final text box:
 ![](../../assets/images/the-basics/new-variable-blank.png)
@@ -53,6 +53,44 @@ To add a new variable, in the final text box:
 
 ### Edit via Import/Export
 
+You can also Export or Import your environment variables via a `.env` file.
+The `.env` file is a file where you can store all of your environment variables and their values.
+It lets you quickly edit and update all of values in your favorite IDE.
+
+#### **Export variables**
+First, you should export the `.env` from your stack's Dashboard to include all Staas's default variables.
+To export, simply click the green export button:
+![](../../assets/images/the-basics/environment-var-export.jpg)
+
+Your browser will download a file called `<your-stack-name>.env`.
+Inside this file, you can find all the existing variables that can also be found in the dashboard:
+```
+PORT=8080
+MOUNT_PATH=/mnt
+INTERNAL_SVC_HOST=<your-stack-name>.staas--<your-username>.svc.cluster.local
+ST4AS_COMMIT=3835a97835d6bf41199049d4aac852280ad6dfe8
+ST4AS_BUILD_AT=2023-10-22 12:19:35 UTC +0000
+MY_NEW_VARIABLE=my_value_123
+```
+
+Let's add another variable called `MY_SECOND_VARIABLE` with a value of `987521` and save the file:
+```
+PORT=8080
+MOUNT_PATH=/mnt
+INTERNAL_SVC_HOST=<your-stack-name>.staas--<your-username>.svc.cluster.local
+ST4AS_COMMIT=3835a97835d6bf41199049d4aac852280ad6dfe8
+ST4AS_BUILD_AT=2023-10-22 12:19:35 UTC +0000
+MY_NEW_VARIABLE=my_value_123
+MY_SECOND_VARIABLE=987521
+```
+
+#### **Import variables**
+Once you have update all the variables in the `.env` file. You can upload to your stack with the Import function.
+Click the orange import button, select the `.env` file from your computer and start the upload process.
+
+![](../../assets/images/the-basics/environment-var-import.jpg)
+
+A notification will appear to indicate that it has added the new `MY_SECOND_VAIRABLE`.
 
 ## Update Notes
 There are some rules / extra information that you should know about Environment Variables on Staas.io:
