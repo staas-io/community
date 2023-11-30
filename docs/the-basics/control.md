@@ -82,6 +82,10 @@ This command permanently removes your stack or application from your account.
 **WARNING: This action is destructive and irreversible!**
 {: .text-red-200 }
 
+
+##### Option 3: Using a dedicated SSH terminal
+Please refer to [Shell Access]({% link docs/the-basics/ssh.md %}).
+
 ---
 ## Conclusion
 Congratulations! You've successfully learned how to use the commands in the Control Panel.
