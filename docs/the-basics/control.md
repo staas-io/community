@@ -18,6 +18,7 @@ The **History** feature provides a historical view of changes made over time, en
 Additionally, the **Scalling** dashboard facilitates seamless scaling options, supporting both horizontal scaling (adding more instances of applications to distribute load) and vertical scaling (increasing individual resource capacities like CPU or RAM).
 
 This comprehensive suite of functionalities empowers you to efficiently manage your stack, ensuring smooth operations and rapid responses to changing requirements.
+
 ![](../../assets/images/scale/control-dashboard.jpg)
 
 ---
@@ -31,6 +32,7 @@ In the **Command** dropdown menu, you'll find the following commands:
 - SHELL (script)
 - SHELL (script from URL)
 - DELETE (stack)
+
 ![](../../assets/images/the-basics/command-dropdown.jpg)
 
 **Usage**: Select a command from the dropdown. Press [Exec](){: .btn .btn-purple .ml-1 .mr-1 } to execute the selected command. A notification will pop up at the top of your dashboard to indicate your action.
