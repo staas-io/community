@@ -62,3 +62,5 @@ If your stack have Persistent Storage available, any restart / deployment / migr
 The persistent storage is Rollback enable via Web Dashboard to any point in time.
 
 The rollback process will require your stack to be offline for approx 5-10 minutes depent on how big your current storage is.
+
+To see how you can restore your storage between snapshot, head over to [Backup Storage with Staas.io]({% link docs/the-basics/backup.md %}).
