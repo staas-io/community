@@ -43,6 +43,8 @@ Press Create and your stack will be created momentarily. An email will be sent t
 ### Manage your Stack in the Dashboard
 Once you created the stack, you will be greeted with a Stack Management screen.
 
+![](../../assets/images/getting-started/python-stack-screen.jpg)
+
 In this screen, you can pretty much control everything regarding to your stack/instance with just a few mouse clicks.
 
 Checking out your new domain by clicking on [Domain](){: .btn .btn-purple .ml-2 .mr-2 } button. It will open up your designated domain in a new tab. For now, it is just a basic page with a "Hello World, This Is STAAS!" message.
