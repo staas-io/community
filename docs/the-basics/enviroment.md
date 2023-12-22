@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Enviroment Variables
+title: Environment Variables
 parent: The Basics
 nav_order: 7
 ---
 
-# Enviroment Variables
+# Environment Variables
 
 ## What is Environment Variables?
 Environment variables are dynamic values external to your application code, influencing its behavior.
@@ -67,7 +67,7 @@ Inside this file, you can find all the existing variables that can also be found
 ```
 PORT=8080
 MOUNT_PATH=/mnt
-INTERNAL_SVC_HOST=<your-stack-name>.staas--<your-username>.svc.cluster.local
+ST4AS_INTERNAL_HOST=<your-stack-name>.staas--<your-username>.svc.cluster.local
 ST4AS_COMMIT=3835a97835d6bf41199049d4aac852280ad6dfe8
 ST4AS_BUILD_AT=2023-10-22 12:19:35 UTC +0000
 MY_NEW_VARIABLE=my_value_123
@@ -77,7 +77,7 @@ Let's add another variable called `MY_SECOND_VARIABLE` with a value of `987521` 
 ```
 PORT=8080
 MOUNT_PATH=/mnt
-INTERNAL_SVC_HOST=<your-stack-name>.staas--<your-username>.svc.cluster.local
+ST4AS_INTERNAL_HOST=<your-stack-name>.staas--<your-username>.svc.cluster.local
 ST4AS_COMMIT=3835a97835d6bf41199049d4aac852280ad6dfe8
 ST4AS_BUILD_AT=2023-10-22 12:19:35 UTC +0000
 MY_NEW_VARIABLE=my_value_123
@@ -97,9 +97,9 @@ There are some rules / extra information that you should know about Environment 
 
 - Environment variables on Staas.io could be updated during the Build / Deployment process. However, it is strongly NOT RECOMMENDED to update these values while the build / deploy is in process to avoid any conflict & missing without notice.
 
-- All enviroment variables should be on CAPITALIZED and should not contain any special / nonvisible / non-ASCII character (NewLine, Color Format).
+- All environment variables should be on CAPITALIZED and should not contain any special / nonvisible / non-ASCII character (NewLine, Color Format).
 
-- Although we support complex enviroment value such as single line JSON, but it's not guaranteed to run any special effect due to the vast support of building context of Staas.io.
+- Although we support complex environment value such as single line JSON, but it's not guaranteed to run any special effect due to the vast support of building context of Staas.io.
 
 
 ---
@@ -117,11 +117,16 @@ There are some rules / extra information that you should know about Environment 
 <sup>**</sup> This is only available for certain Application stacks like Wordpress.
 
 ### Read-only Variables
-- `INTERNAL_SVC_HOST`: Indicates the private domain for your stack when your need to access it from another stack of the same owner via private network.
+Environment variables that automatically generated & tracking in build & deployment process. User should not change they as they will be overwrite by our platform.
+
+- `ST4AS_INTERNAL_HOST`: Indicates the private domain for your stack when your need to access it from another stack of the same owner via private network.
 - `ST4AS_COMMIT`: Indicates the hash commit of your built image form your Staas' git repository
 - `ST4AS_BUILD_AT`: Indicates the build time
 
 ### Custom Variables
-- `NO_STORAGE`: This variable is used to force remove persistent volume storage to give your stack ability to freely scale & running cross region.
-- `COMMAND`: Overwrite the starting command for your stack.
-- `K8S_SUB_DIR`: To be added.
+Environment that change the container build process or run-time environment for customer's stack.
+
+- `ST4AS_NO_STORAGE`: This variable is used to force remove persistent volume storage to give your stack ability to freely scale & running cross region.
+- `ST4AS_NO_FORCE_SSL`: Disable forcing HTTPS/SSL redirect when accessing your stack via browser or API
+- `ST4AS_COMMAND`: Overwrite the starting command for your stack.
+- `ST4AS_K8S_SUB_DIR`: To be added.
