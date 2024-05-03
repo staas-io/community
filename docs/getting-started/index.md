@@ -12,6 +12,7 @@ This section of the Staas.io docs is all about getting you up and running quickl
 Follow Hands-on tutorials which takes you through creating an account, creating a new stack and launching a simple demo app:
 - [Launching a Python stack]({% link docs/getting-started/intro-python.md %})
 - [Launching a WordPress stack]({% link docs/getting-started/intro-wordpress.md %})
+- [Launching a NodeJS stack]({% link docs/getting-started/intro-nodejs.md %})
 
 <!-- If you’d rather jump right in, try [Speedrun]() to launch your own app fast. -->
 
