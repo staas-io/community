@@ -233,7 +233,7 @@ To git.staas.io:pyltk1998/phpdoyouloveme.git
 **→ Method 2: Using Filemanager**
 
 On the `Stack Management` screen, scroll down to see the `Operation` section, here you check `I understand that reveal this sensitive information might unintentionally leak the security of my stacks`, you will see the Enviroment information (this is important information, please manage it carefully). You find information such as `FILEMANAGER_DOMAIN`, password `FILEMANAGER_PASSWORD` and username `FILEMANAGER_USERNAME` (these are information for you to control Filemanager).
-You can learn more about [Common Variables on Staas.io]({% link docs/the-basics/enviroment.html#common-variables-on-staasio %})
+You can learn more about [Common Variables on Staas.io](https://docs.staas.io/docs/the-basics/enviroment.html#common-variables-on-staasio)
 
 ![](../../assets/images/getting-started/php-stack-screen-operation.png)
 
