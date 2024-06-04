@@ -14,6 +14,7 @@ Follow Hands-on tutorials which takes you through creating an account, creating 
 - [Launching a WordPress stack]({% link docs/getting-started/intro-wordpress.md %})
 - [Launching a NodeJS stack]({% link docs/getting-started/intro-nodejs.md %})
 - [Launching a PHP stack]({% link docs/getting-started/intro-php.md %})
+- [Launching a Shiori stack]({% link docs/getting-started/intro-shiori.md %})
 
 <!-- If you’d rather jump right in, try [Speedrun]() to launch your own app fast. -->
 
