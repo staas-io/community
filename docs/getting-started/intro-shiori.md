@@ -44,7 +44,9 @@ Checking out your new domain by clicking on [Domain](){: .btn .btn-purple .ml-2 
 
 ## Successfully deployed your Shiori
 The default username: **shiori**
+
 The default password: **gopher**
+
 *(Remember to change your password after the first login to avoid illegal access)*
 
 ![](../../assets/images/getting-started/shiori-login.png)
