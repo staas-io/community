@@ -15,6 +15,7 @@ Follow Hands-on tutorials which takes you through creating an account, creating 
 - [Launching a NodeJS stack]({% link docs/getting-started/intro-nodejs.md %})
 - [Launching a PHP stack]({% link docs/getting-started/intro-php.md %})
 - [Launching a Shiori stack]({% link docs/getting-started/intro-shiori.md %})
+- [Launching a AnythingLLM stack]({% link docs/getting-started/intro-anythingllm.md %})
 
 <!-- If you’d rather jump right in, try [Speedrun]() to launch your own app fast. -->
 
