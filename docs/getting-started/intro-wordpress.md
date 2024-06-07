@@ -18,7 +18,7 @@ WordPress is a web content management system. It was originally created as a too
 ### Instance Creation
 Staas.io gives you more controls with the instance you run your app on.
 
-Go to your [Staas.io Dashboard](https://www.staas.io/dashboard)
+Go to your [Staas.io Dashboard](https://www.staas.io/dashboard?utm_source=docs)
 ![](../../assets/images/getting-started/staas-dashboard.jpg)
 
 Click on "Create new stack +".

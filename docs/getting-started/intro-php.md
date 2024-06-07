@@ -22,7 +22,7 @@ Requirements:
 ### Instance Creation
 Staas.io gives you more controls with the instance you run your app on.
 
-Go to your [Staas.io Dashboard](https://www.staas.io/dashboard)
+Go to your [Staas.io Dashboard](https://www.staas.io/dashboard?utm_source=docs)
 ![](../../assets/images/getting-started/nodejs-staas-dashboard.png)
 
 Click on [Create new stack +](){: .btn .btn-purple .ml-2 .mr-2 }.

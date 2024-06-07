@@ -18,7 +18,7 @@ NocoDB is arguably the most popular self-hosted Airtable alternative and its fea
 ### Instance Creation
 Staas.io gives you more controls with the instance you run your app on.
 
-Go to your [Staas.io Dashboard](https://www.staas.io/dashboard)
+Go to your [Staas.io Dashboard](https://www.staas.io/dashboard?utm_source=docs)
 ![](../../assets/images/getting-started/staas-dashboard.png)
 
 Click on "Create new stack +".
