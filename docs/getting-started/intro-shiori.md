@@ -29,8 +29,8 @@ From this screen, you can select your stack of choice including Programming Lang
 In the Create Stack page, configure your stack:
 - **Stack name**: This is your stack name. It is also the name of your web domain once the stack is created.
 - **Owner**: Set it as a private or a shared stack so that your team can contribute and maintain.
-- **Type**: This is The stack type. It is the same as the previous page. In this case, Python is already selected.
-- **Version**: Select a Python's version. Let's select Python 3.9.9 for our example.
+- **Type**: This is The stack type. It is the same as the previous page. In this case, Shiori is already selected.
+- **Version**: Select a Shiori's version. Let's select Shiori latest for our example.
 - **Packages**: This is your instance type. Choose your desired hardware's capability. The options are limited to your [Pricing plan](https://www.staas.io/#pricing).
 - **Region**: Choose a region to deploy your stack. The app should be deployed closest to your target customers.
 ![](../../assets/images/getting-started/shiori-create-shiori-screen.png)
