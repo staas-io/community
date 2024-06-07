@@ -2,7 +2,7 @@
 layout: default
 title: Deploy a AnythingLLM app with Staas.io
 parent: Getting Started
-nav_order: 7
+nav_order: 2
 ---
 
 # Introduction

@@ -2,7 +2,7 @@
 layout: default
 title: Deploy a Shiori app with Staas.io
 parent: Getting Started
-nav_order: 6
+nav_order: 7
 ---
 
 # Introduction

@@ -2,7 +2,7 @@
 layout: default
 title: Deploy a Python App with Staas.io
 parent: Getting Started
-nav_order: 2
+nav_order: 6
 ---
 
 

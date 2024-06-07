@@ -10,12 +10,13 @@ has_children: true
 This section of the Staas.io docs is all about getting you up and running quickly.
 
 Follow Hands-on tutorials which takes you through creating an account, creating a new stack and launching a simple demo app:
-- [Launching a Python stack]({% link docs/getting-started/intro-python.md %})
-- [Launching a WordPress stack]({% link docs/getting-started/intro-wordpress.md %})
+- [Launching a AnythingLLM stack]({% link docs/getting-started/intro-anythingllm.md %})
+- [Launching a NocoDB stack]({% link docs/getting-started/intro-nocodb.md %})
 - [Launching a NodeJS stack]({% link docs/getting-started/intro-nodejs.md %})
 - [Launching a PHP stack]({% link docs/getting-started/intro-php.md %})
+- [Launching a Python stack]({% link docs/getting-started/intro-python.md %})
 - [Launching a Shiori stack]({% link docs/getting-started/intro-shiori.md %})
-- [Launching a AnythingLLM stack]({% link docs/getting-started/intro-anythingllm.md %})
+- [Launching a WordPress stack]({% link docs/getting-started/intro-wordpress.md %})
 
 <!-- If you’d rather jump right in, try [Speedrun]() to launch your own app fast. -->
 
