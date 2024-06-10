@@ -47,6 +47,7 @@ Checking out your new domain by clicking on [Domain](){: .btn .btn-purple .ml-2 
 For example, if your website domain name is *opencartzinc1409.stack-ap2.st4as.com*, then your website management admin page address is *opencartzinc1409.stack-ap2.st4as.com/admin*
 
 **Administrator account managing the website**
+
 At the "Manage your Stack in the Dashboard" page, you will see a section named "Operation/Environment," where you will find information about the OpenCart website's environment variables. You need to checked the checkbox "I understand that revealing this sensitive information might unintentionally leak the security of my stacks" in order to see the environment information.
 
 ![](../../assets/images/getting-started/opencart-stack-dashboard-enviroment.png)
