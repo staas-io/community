@@ -20,7 +20,7 @@ Staas.io gives you more controls with the instance you run your app on.
 
 Go to your [Staas.io Dashboard](https://www.staas.io/dashboard?utm_source=docs)
 
-![](../../assets/images/getting-started/staas-dashboard.jpg)
+![](../../assets/images/getting-started/staas-dashboard.png)
 
 Click on "Create new stack +".
 From this screen, you can select your stack of choice including Programming Languages, Databases and Applications. In this tutorial, we'll select **Shiori**.
