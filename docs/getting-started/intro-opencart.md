@@ -43,6 +43,7 @@ Checking out your new domain by clicking on [Domain](){: .btn .btn-purple .ml-2 
 ![](../../assets/images/getting-started/opencart-stack-dashboard.png)
 
 **Address of the admin page that manages the website**: `<domain>`+`/admin`
+
 For example, if your website domain name is *opencartzinc1409.stack-ap2.st4as.com*, then your website management admin page address is *opencartzinc1409.stack-ap2.st4as.com/admin*
 
 **Administrator account managing the website**
