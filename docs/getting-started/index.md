@@ -13,7 +13,7 @@ Follow Hands-on tutorials which takes you through creating an account, creating 
 - [Launching a AnythingLLM stack]({% link docs/getting-started/intro-anythingllm.md %})
 - [Launching a NocoDB stack]({% link docs/getting-started/intro-nocodb.md %})
 - [Launching a NodeJS stack]({% link docs/getting-started/intro-nodejs.md %})
-- [Launching a NodeJS stack]({% link docs/getting-started/intro-opencart.md %})
+- [Launching a OpenCart stack]({% link docs/getting-started/intro-opencart.md %})
 - [Launching a PHP stack]({% link docs/getting-started/intro-php.md %})
 - [Launching a Python stack]({% link docs/getting-started/intro-python.md %})
 - [Launching a Shiori stack]({% link docs/getting-started/intro-shiori.md %})
