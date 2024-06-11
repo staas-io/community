@@ -14,6 +14,8 @@ We're thrilled to have you here at Staas.io's Documentation Center, your go-to r
 
 At Staas.io, we're committed to making your experience as smooth and productive as possible. Our comprehensive documentation covers a wide range of topics, from getting started guides to advanced tutorials. Here's what you can expect to find:
 
+### [Explore the stacks at Staas]({% link docs/explore-stacks.md %})
+
 ### [Getting Started]({% link docs/getting-started/index.md %})
 If you're new to Staas.io, our getting-started guides are tailored just for you. Learn the essentials of setting up your account, navigating our user-friendly interface, and deploying your very first application hassle-free.
 
