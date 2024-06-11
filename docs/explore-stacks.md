@@ -17,7 +17,7 @@ Go is statically typed, explicit and modeled after the C programming language. B
 
 Go language was inspired by the productivity and relative simplicity of Python. It uses goroutines, or lightweight processes, and a collection of packages for efficient dependency management. It was designed to solve several problems, including slow build time, uncontrolled dependencies, effort duplication, difficulty writing automatic tools and cross-language development.
 
-- **Starting with attractive prices from only**: CA$ 7
+- **Starting with attractive prices from only**: **CA$ 7**
 - **Start building Go with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=golang&utm_source=docs&utm_content=textlink)
 
 ### Java
@@ -30,7 +30,7 @@ It's also important to understand that Java is much different from JavaScript. J
 
 New and improved software development tools are coming to the market at a remarkable pace, displacing incumbent products once thought to be indispensable. In light of this continual turnover, Java’s longevity is impressive; more than two decades after its creation, Java is still the most popular language for application software development. Developers continue to choose it over languages such as Python, Ruby, PHP, Swift, C++ and others. As a result, Java remains to be an important requirement for competing in the job market.
 
-- **Starting with attractive prices from only**: CA$ 7
+- **Starting with attractive prices from only**: **CA$ 7**
 - **Start building Java with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=java&utm_source=docs&utm_content=textlink)
 
 ### Microsoft .Net Runtime
@@ -48,7 +48,7 @@ Overall, the .NET Framework is a powerful and versatile development platform tha
 
 It is used to develop Form-based applications, Web-based applications, and Web services. There is a variety of programming languages available on the .Net platform, VB.Net and C# being the most common ones. It is used to build applications for Windows, phones, web, etc. It provides a lot of functionalities and also supports industry standards.
 
-- **Starting with attractive prices from only**: CA$ 7
+- **Starting with attractive prices from only**: **CA$ 7**
 - **Start building Microsoft .Net Runtime with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=dotnet&utm_source=docs&utm_content=textlink)
 
 ### Node.js
@@ -64,8 +64,8 @@ Here are some quick points about Node.js:
 
 In simple words, Node.js lets you use JavaScript for more than just web pages. It's made for making websites and apps that can handle a lot of users at the same time.
 
-- **Starting with attractive prices from only**: CA$ 7
-- **Installation:** [Node.js Installation Guide]({% link docs/getting-started/intro-nodejs.md %})
+- **Starting with attractive prices from only**: **CA$ 7**
+- **Installation**: [Node.js Installation Guide]({% link docs/getting-started/intro-nodejs.md %})
 - **Start building Node.js with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=nodejs&utm_source=docs&utm_content=textlink)
 
 ### PHP
@@ -74,8 +74,8 @@ In simple words, Node.js lets you use JavaScript for more than just web pages. I
 
 Despite its nearly three decades of existence, PHP is still widely used due to its relative ease and open-source code, which provides developers with a range of PHP frameworks you can use to control costs, boost performance and facilitate functionality.
 
-- **Starting with attractive prices from only**: CA$ 7
-- **Installation:** [PHP Installation Guide]({% link docs/getting-started/intro-php.md %})
+- **Starting with attractive prices from only**: **CA$ 7**
+- **Installation**: [PHP Installation Guide]({% link docs/getting-started/intro-php.md %})
 - **Start building PHP with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=php&utm_source=docs&utm_content=textlink)
 
 ### Python
@@ -86,9 +86,11 @@ Python is also the fastest-growing programming language in the world. Its high-l
 
 Another main feature of Python is that it supports modules and packages. Both things make it easier for Python developers to reuse code across different projects. Naturally, this is a great way to increase productivity and save time and effort when working with the language.
 
-- **Starting with attractive prices from only**: CA$ 7
-- **Installation:** [Python Installation Guide]({% link docs/getting-started/intro-python.md %})
+- **Starting with attractive prices from only**: **CA$ 7**
+- **Installation**: [Python Installation Guide]({% link docs/getting-started/intro-python.md %})
 - **Start building Python with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=python&utm_source=docs&utm_content=textlink)
+
+---
 
 ## Databases
 ### ArangoDB
@@ -97,7 +99,7 @@ Another main feature of Python is that it supports modules and packages. Both th
 
 Moreover, different models can be combined in a single query. And, owing to its multi-model style, one can make lean applications, which will be scalable horizontally with any or all of the three data models.
 
-- **Starting with attractive prices from only**: CA$ 7
+- **Starting with attractive prices from only**: **CA$ 7**
 - **Start building ArangoDB with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=arangodb&utm_source=docs&utm_content=textlink)
 
 ### MongoDB
@@ -106,7 +108,7 @@ Moreover, different models can be combined in a single query. And, owing to its 
 
 Developed and managed by MongoDB, Inc., the database operates under the Server Side Public License (SSPL) and was initially released in February 2009. It offers official driver support for widely-used programming languages such as C, C++, C#, .Net, Go, Java, Node.js, Perl, PHP, Python, Motor, Ruby, Scala, Swift, and Mongoid. Many prominent companies, including Facebook, Nokia, eBay, Adobe, and Google, leverage MongoDB to manage large volumes of data in their systems.
 
-- **Starting with attractive prices from only**: CA$ 7
+- **Starting with attractive prices from only**: **CA$ 7**
 - **Start building MongoDB with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=mongodb&utm_source=docs&utm_content=textlink)
 
 ### Neo4j Graph DB
@@ -124,7 +126,7 @@ What makes Neo4j the easiest graph to work with?
 
 A Neo4j graph database stores nodes and relationships instead of tables or documents. Data is stored just like you might sketch ideas on a whiteboard. Your data is stored without restricting it to a pre-defined model, allowing a very flexible way of thinking about and using it.
 
-- **Starting with attractive prices from only**: CA$ 7
+- **Starting with attractive prices from only**: **CA$ 7**
 - **Start building Neo4j Graph DB with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=neo4j&utm_source=docs&utm_content=textlink)
 
 ### PostgreSQL
@@ -133,7 +135,7 @@ A Neo4j graph database stores nodes and relationships instead of tables or docum
 
 PostgreSQL has transaction support, full-text search and constraints like a foreign key. This RDBMS also has special features intended to help build high-performance systems. Thus, PostgreSQL can scale from one computer to thousands of computers in an enterprise deployment.
 
-- **Starting with attractive prices from only**: CA$ 7
+- **Starting with attractive prices from only**: **CA$ 7**
 - **Start building PostgreSQL with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=postgresql&utm_source=docs&utm_content=textlink)
 
 ### Redis
@@ -146,7 +148,7 @@ When an application relies on external data sources, the latency and throughput 
 
 Other Redis characteristics worth noting include support for multiple data structures, built-in Lua scripting, multiple levels of on-disk persistence, and high availability.
 
-- **Starting with attractive prices from only**: CA$ 7
+- **Starting with attractive prices from only**: **CA$ 7**
 - **Start building Redis with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=redis&utm_source=docs&utm_content=textlink)
 
 ### Valkey
@@ -157,7 +159,7 @@ Valkey natively supports a rich collection of datatypes, including strings, numb
 
 In the dynamic universe of data storage technology, efficiency and adaptability are key to supporting growth and innovation. Redis, known for its renowned performance as an in-memory database management system, has been a popular choice for many developers and companies. However, recent changes to its licensing model have raised questions about its long-term viability for some projects and companies, especially those heavily reliant on cloud services. In this context, alternative solutions like Valkey begin to draw attention, not just for their technical capabilities but also for a licensing model considered more friendly and flexible.
 
-- **Starting with attractive prices from only**: CA$ 7
+- **Starting with attractive prices from only**: **CA$ 7**
 - **Start building Valkey with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=valkey&utm_source=docs&utm_content=textlink)
 
 ### NocoDB
@@ -166,16 +168,18 @@ In the dynamic universe of data storage technology, efficiency and adaptability 
 
 NocoDB currently works with relational databases like MySQL and PostgreSQL. Its App Store lets you connect to third-party tools like Slack, and Discord amongst a couple of other messaging platforms to automate workflows. NocoDB also facilitates programmatic access to APIs so you can build integrations with Zapier and any other custom applications.
 
-- **Starting with attractive prices from only**: CA$ 7
-- **Installation:** [NocoDB Installation Guide]({% link docs/getting-started/intro-nocodb.md %})
+- **Starting with attractive prices from only**: **CA$ 7**
+- **Installation**: [NocoDB Installation Guide]({% link docs/getting-started/intro-nocodb.md %})
 - **Start building NocoDB with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=nocodb&utm_source=docs&utm_content=textlink)
+
+---
 
 ## Applications
 ### Answer
 
 [Answer](https://answer.apache.org/?ref=staas.io), A Q&A platform software for teams at any scales. Whether it’s a community forum, help center, or knowledge management platform, you can always count on Answer. Answer provides a plugin system for developers to create custom plugins and expand Answer’s features.
 
-- **Starting with attractive prices from only**: CA$ 7
+- **Starting with attractive prices from only**: **CA$ 7**
 - **Start building Answer with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=answer&utm_source=docs&utm_content=textlink)
 
 ### AnythingLLM
@@ -201,7 +205,7 @@ Some cool features of AnythingLLM
 AnythingLLM is designed for anyone and everyone. Whether you're looking to build or utilize LLMs more effectively, our goal is to support you and make the process as seamless as possible.
 
 - **Starting with attractive prices from only**: CA$ 17
-- **Installation:** [AnythingLLM Installation Guide]({% link docs/getting-started/intro-anythingllm.md %})
+- **Installation**: [AnythingLLM Installation Guide]({% link docs/getting-started/intro-anythingllm.md %})
 - **Start building AnythingLLM with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=anythingllm&utm_source=docs&utm_content=textlink)
 
 ### Kafka
@@ -216,14 +220,14 @@ Kafka provides three main functions to its users:
 
 Kafka is primarily used to build real-time streaming data pipelines and applications that adapt to the data streams. It combines messaging, storage, and stream processing to allow storage and analysis of both historical and real-time data. 
 
-- **Starting with attractive prices from only**: CA$ 7
+- **Starting with attractive prices from only**: **CA$ 7**
 - **Start building Kafka with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=kafka&utm_source=docs&utm_content=textlink)
 
 ### LiteLLM
 
 [LiteLLM](https://www.litellm.ai/?ref=staas.io) is a library for seamless integration with various large language model (LLM) providers' APIs that standardizes interactions through an OpenAI API format. It supports an extensive array of providers and models and offers a unified interface for completion, embedding and image generation functionalities. LiteLLM simplifies integration by translating inputs to match each provider's specific endpoint requirements. This is particularly valuable in the current landscape, where a lack of standardized API specifications for LLM providers complicates the inclusion of multiple LLMs in projects. Our teams have leveraged LiteLLM to swap underlying models in LLM applications, addressing a significant integration challenge. However, it's crucial to acknowledge that model responses to identical prompts vary, indicating that a consistent invocation method alone may not fully optimize completion performance. Note that LiteLLM has several other features, such as proxy server, that are not in the purview of this blip.
 
-- **Starting with attractive prices from only**: CA$ 7
+- **Starting with attractive prices from only**: **CA$ 7**
 - **Start building LiteLLM with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=litellm&utm_source=docs&utm_content=textlink)
 
 ### Laravel
@@ -234,7 +238,7 @@ Before creating a web app or website, you need to make a foundational decision a
 
 To build something simple, such as an online store or portfolio, you can rely on no-code website creators. If you are looking to build something more advanced, a no-code solution might not be enough. Instead, you should choose a framework and start writing code on it. Laravel is a good choice as an easy-to-use open-source framework for building modern web applications at scale.
 
-- **Starting with attractive prices from only**: CA$ 7
+- **Starting with attractive prices from only**: **CA$ 7**
 - **Start building Laravel with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=laravel&utm_source=docs&utm_content=textlink)
 
 ### ArchiveBox
@@ -245,14 +249,14 @@ Without active preservation effort, everything on the internet eventually dissap
 
 ArchiveBox is an open source tool that lets organizations & individuals archive both public & private web content while retaining control over their data. It can be used to save copies of bookmarks, preserve evidence for legal cases, backup photos from FB/Insta/Flickr or media from YT/Soundcloud/etc., save research papers, and more…
 
-- **Starting with attractive prices from only**: CA$ 7
+- **Starting with attractive prices from only**: **CA$ 7**
 - **Start building ArchiveBox with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=archivebox&utm_source=docs&utm_content=textlink)
 
 ### Bludit
 
 [Bludit](https://www.bludit.com/?ref=staas.io) is a web application to build your own website or blog in seconds; it's completely free and open source. Bludit is a Flat-File CMS, which (in this case) means that Bludit uses files in the JSON format to store the content. You don't need to install or configure a database; you only need a web server with PHP support.
 
-- **Starting with attractive prices from only**: CA$ 7
+- **Starting with attractive prices from only**: **CA$ 7**
 - **Start building Bludit with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=bludit&utm_source=docs&utm_content=textlink)
 
 ### Calibre-Web
@@ -286,7 +290,7 @@ Features:
 
 Calibre is a powerful and easy to use e-book manager. Users say it’s outstanding and a must-have. It’ll allow you to do nearly everything and it takes things a step beyond normal e-book software. It’s also completely free and open source and great for both casual users and computer experts.
 
-- **Starting with attractive prices from only**: CA$ 7
+- **Starting with attractive prices from only**: **CA$ 7**
 - **Start building Calibre-Web with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=calibreweb&utm_source=docs&utm_content=textlink)
 
 ### Chatwoot
@@ -309,7 +313,7 @@ Chatwoot supports the following conversation channels:
 
 Open source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud, etc.
 
-- **Starting with attractive prices from only**: CA$ 7
+- **Starting with attractive prices from only**: **CA$ 7**
 - **Start building Chatwoot with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=chatwoot&utm_source=docs&utm_content=textlink)
 
 ### DbGate
@@ -328,15 +332,109 @@ DBGate creates a model for all available tables, views, and stored procedures re
 
 It supports SQL Server, Oracle Database, MySQL, MariaDB, and PostgreSQL on Windows and Linux.
 
-- **Starting with attractive prices from only**: CA$ 7
+- **Starting with attractive prices from only**: **CA$ 7**
 - **Start building DbGate with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=dbgate&utm_source=docs&utm_content=textlink)
 
 ### Excalidraw
 
 [Excalidraw](https://excalidraw.com/?ref=staas.io), An open source virtual hand-drawn style whiteboard. Collaborative and end-to-end encrypted. The app hosted at excalidraw.com is a minimal showcase of what you can build with Excalidraw. Its source code is part of this repository as well, and the app features: PWA support (works offline). Real-time collaboration. End-to-end encryption. Local-first support (autosaves to the browser). Shareable links (export to a readonly link you can share with others).
 
-- **Starting with attractive prices from only**: CA$ 7
+- **Starting with attractive prices from only**: **CA$ 7**
 - **Start building Excalidraw with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=excalidraw&utm_source=docs&utm_content=textlink)
+
+### Flatboard
+
+[Flatboard](https://flatboard.org/?ref=staas.io), A Simple, Lightweight, Modern and fast Flat-File Forum, using Json and Markdown or BBcode.
+
+Simple:
+- Just drop two files on your server to install.
+- Super Easy to Use.
+- Post and edit in place.
+- Create your own extensions easily.
+
+Lightweight:
+- No registration require! (no account)
+- Json storage, Flatboard is designed to be fully portable without any dependencies
+- Customizable BBcode Editor.
+
+Modern:
+- Carefully designed elements and components.
+- User interface is clean and intuitive.
+- New concept blending blog and forum for dynamic comments!
+
+Flatboard is an excellent option for those who need a simple, efficient, and customizable forum solution without the overhead of more complex systems.
+
+- **Starting with attractive prices from only**: **CA$ 7**
+- **Start building Excalidraw with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=flatboard&utm_source=docs&utm_content=textlink)
+
+### Ghost
+
+[Ghost](https://ghost.org/?ref=staas.io) is a powerful app for new-media creators to publish, share, and grow a business around their content. It comes with modern tools to build a website, publish content, send newsletters & offer paid subscriptions to members.
+
+Ghost CMS is an open-source blogging platform that has been around since 2013.
+
+Ghost born from the frustration of WordPress becoming too complicated to use for blogging.
+
+So, it's normal to look at Ghost as a WordPress alternative and why businesses like Buffer, Airtable, and Kickstarter use Ghost CMS for their blogs.
+
+And unlike other platforms that try to do everything (like Substack and WordPress), Ghost stays focused on providing a clean and intuitive experience for content creators.
+
+For that reason, Ghost's writing experience is great. It strikes the right balance between being easy to use and offering advanced capabilities for advanced users.
+
+One of the things I like the most about Ghost is this balance of being easy for non-tech people and giving all the options advanced users need, as this balance isn't easy to achieve.
+
+Ghost websites look modern as you have a lot of pretty themes to pick from, but customizing them from their default state isn't as easy as on WordPress. So, customization is one of the areas where Ghost doesn't shine.
+
+From a security perspective, Ghost is fantastic, and sites using it aren't usually hacked, so that's one thing less to worry about.
+
+And yes, Ghost sites can handle a lot of traffic without breaking a sweat.
+
+Overall, Ghost has the right SEO tools to let you have a successful blog that looks good, is easy to use, and has decent **Starting with attractive prices from only**s.
+
+
+- **Starting with attractive prices from only**: **CA$ 7**
+- **Start building Excalidraw with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=ghost&utm_source=docs&utm_content=textlink)
+
+### Grav-CMS
+
+[Grav](https://getgrav.org/?ref=staas.io) is a Fast, Simple, and Flexible file-based Web-platform. There is Zero installation required. Just extract the ZIP archive, and you are already up and running. Although Grav follows principles similar to other flat-file CMS platforms, it has a different design philosophy than most.
+
+The name Grav is just a shortened version of the word Gravity. The shared namespace of our platform and a movie starring Sandra Bullock is pure coincidence! More importantly, gravity is also a fundamental physical principle that describes the forces of attraction between objects. Frankly, the name was chosen as a temporary "codename" for the project, and it just stuck.
+
+The underlying architecture of Grav is built using well established and best-in-class technologies. This is to ensure that Grav is simple to use and easy to extend. Some of these key technologies include:
+
+- Twig Templating: for powerful control of the user interface
+- Markdown: for easy content creation
+- YAML: for simple configuration
+- Parsedown: for fast Markdown and Markdown Extra support
+- Doctrine Cache: for performance
+- Pimple Dependency Injection Container: for extensibility and maintainability
+- Symfony Event Dispatcher: for plugin event handling
+- Symfony Console: for CLI interface
+- Gregwar Image Library: for dynamic image manipulation
+
+Grav CMS is an excellent choice for developers and content creators looking for a modern, flexible, and performant CMS that is easy to set up and manage. Its flat-file approach offers simplicity and speed, making it suitable for a wide range of websites, from personal blogs to complex enterprise sites.
+
+- **Starting with attractive prices from only**: **CA$ 7**
+- **Start building Excalidraw with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=grav&utm_source=docs&utm_content=textlink)
+
+### HTMLy
+
+[HTMLy](https://www.htmly.com/?ref=staas.io) is an open source databaseless blogging platform prioritizes simplicity and speed written in PHP.
+
+It uses a unique algorithm to find or list any content based on date, type, category, tag, or author, and it's performance remain fast even if we have ten thousand of posts and hundreds of tags.
+
+- **Starting with attractive prices from only**: **CA$ 7**
+- **Start building Excalidraw with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=htmly&utm_source=docs&utm_content=textlink)
+
+### ILLA
+
+[ILLA](https://illacloud.com/?ref=staas.io), Create business apps like assembling blocks. ILLA is low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL, MongoDB, MSSQL, Rest API, Hugging Face, Redis, etc. Automate workflows with schedule or webhook.
+
+- **Starting with attractive prices from only**: **CA$ 7**
+- **Start building Excalidraw with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=illa&utm_source=docs&utm_content=textlink)
+
+
 
 ### There's more... is comming soon
 
