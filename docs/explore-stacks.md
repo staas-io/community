@@ -434,41 +434,182 @@ It uses a unique algorithm to find or list any content based on date, type, cate
 - **Starting with attractive prices from only**: ***CA$ 7***
 - **Start building ILLA with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=illa&utm_source=docs&utm_content=textlink)
 
-### 
+### Linkding
+
+[Linkding](https://github.com/sissbruecker/linkding?ref=staas.io) is a bookmark manager that you can host yourself. It's designed be to be minimal, fast, and easy to set up using Docker. The name comes from: link which is often used as a synonym for URLs and bookmarks in common language, Ding which is German for thing,... So basically something for managing your links.
+
+Feature Overview:
+
+- Clean UI optimized for readability
+- Organize bookmarks with tags
+- Bulk editing, Markdown notes, read it later functionality
+- Share bookmarks with other users or guests
+- Automatically provides titles, descriptions and icons of bookmarked websites
+- Automatically archive websites, either as local HTML file or on Internet Archive
+- Import and export bookmarks in Netscape HTML format
+- Installable as a Progressive Web App (PWA)
+- Extensions for Firefox and Chrome, as well as a bookmarklet
+- SSO support via OIDC or authentication proxies
+- REST API for developing 3rd party apps
+- Admin panel for user self-service and raw data access
+
+Overall, Linkding is a versatile and efficient bookmark manager that caters to users who prefer an open-source solution with the ability to self-host and customize their bookmarking experience.
 
 - **Starting with attractive prices from only**: ***CA$ 7***
-- **Installation**: [Node.js Installation Guide]()
-- **Start building Excalidraw with Staas**: [Get Started](&utm_source=docs&utm_content=textlink)
+- **Start building Linkding with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=linkding&utm_source=docs&utm_content=textlink)
 
-### 
+### Logseq
 
-- **Starting with attractive prices from only**: ***CA$ 7***
-- **Installation**: [Node.js Installation Guide]()
-- **Start building Excalidraw with Staas**: [Get Started](&utm_source=docs&utm_content=textlink)
+[Logseq](https://logseq.com/?ref=staas.io) is a knowledge management and collaboration platform. It focuses on privacy, longevity, and user control. Logseq offers a range of powerful tools for knowledge management, collaboration, PDF annotation, and task management with support for multiple file formats, including Markdown and Org-mode, and various features for organizing and structuring your notes.
 
-### 
+Overall, Logseq is a versatile tool for note-taking, knowledge management, and personal wiki creation, offering features that cater to both casual users and power users who need advanced organizational capabilities for managing complex information.
 
 - **Starting with attractive prices from only**: ***CA$ 7***
-- **Installation**: [Node.js Installation Guide]()
-- **Start building Excalidraw with Staas**: [Get Started](&utm_source=docs&utm_content=textlink)
+- **Start building Logseq with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=logseq&utm_source=docs&utm_content=textlink)
 
-### 
+### Mautic
+
+[Mautic](https://www.mautic.org/?ref=staas.io) is the largest open-source marketing automation platform. It stands out from other platforms by the fact that it’s completely free to use. This makes it accessible not only to large-scale organizations, but to every business. Just like Drupal, Mautic can count on a highly active community that contributes daily to the platform’s code for further improvement.
+
+Marketing automation helps you to make your overall marketing more efficient on different levels, including multichannel marketing, automated campaigns and workflows, and integrated web forms. But there’s more: Mautic throws in additional features, like content management, segmentation, lead scoring and dynamic content.
+
+- **Starting with attractive prices from only**: ***CA$ 17***
+- **Start building Mautic with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=mautic&utm_source=docs&utm_content=textlink)
+
+### Memos
+
+[Memos](https://www.usememos.com/?ref=staas.io) is an open-source, lightweight note-taking service designed to facilitate the easy capture and sharing of thoughts. Built using Go and React, and capable of being deployed via Docker, it supports markdown for note formatting.
+
+Key features include a simple UI for quick note-taking, the ability to share notes as microblogs, and self-hosting capabilities.
+
+The use of SQLite suggests a lightweight database backend. Pros include its open-source nature, ease of use, and flexibility for personal or collaborative note management.
 
 - **Starting with attractive prices from only**: ***CA$ 7***
-- **Installation**: [Node.js Installation Guide]()
-- **Start building Excalidraw with Staas**: [Get Started](&utm_source=docs&utm_content=textlink)
+- **Start building Memos with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=memos&utm_source=docs&utm_content=textlink)
 
-### 
+### Microweber
 
-- **Starting with attractive prices from only**: ***CA$ 7***
-- **Installation**: [Node.js Installation Guide]()
-- **Start building Excalidraw with Staas**: [Get Started](&utm_source=docs&utm_content=textlink)
-
-### 
+[Microweber](https://microweber.com/?ref=staas.io) is an open-source content management system and website builder. It is based on the PHP programming language and the Laravel 5 web application framework, using drag and drop and allowing users to quickly create content, while scheduling and managing multiple displays. It has a Live Edit feature enabling users to view their edits as they would appear. The application has been used by several professional organisations according to rankings on OpenSourceCMS.com and Softaculous. Developers can freely access the code, exchanging their knowledge and contributions with the rest of the open-source community.
 
 - **Starting with attractive prices from only**: ***CA$ 7***
-- **Installation**: [Node.js Installation Guide]()
-- **Start building Excalidraw with Staas**: [Get Started](&utm_source=docs&utm_content=textlink)
+- **Start building Microweber with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=microweber&utm_source=docs&utm_content=textlink)
+
+### MiroTalk-P2P
+
+[MiroTalk-P2P](https://p2p.mirotalk.com/?ref=staas.io), Free WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences with support for up to 4k resolution and 60fps. It's compatible with all major browsers and platforms.
+
+Features:
+
+- Is 100% Free - Open Source under (AGPLv3) - Self Hosted and PWA!
+- No downloads, plugins, or logins required – completely browser-based.
+- Unlimited conference rooms with no time limitations.
+- Translated into 133 languages.
+- Support for the OpenID Connect (OIDC) authentication layer.
+- Host protection to prevent unauthorized access.
+- User auth to prevent unauthorized access.
+- Room password protection.
+- JWT.io securely manages credentials for host configurations and user authentication, enhancing security and streamlining processes.
+- Compatible with desktop and mobile devices.
+- Optimized mobile room URL sharing.
+- Webcam streaming with front and rear camera support for mobile devices.
+- Crystal-clear audio streaming with speaking detection and volume indicators.
+- Screen sharing for presentations.
+- File sharing with drag-and-drop support.
+- Choose your audio input, output, and video source.
+- Supports video quality up to 4K and 60 FPS.
+- Supports advance Picture-in-Picture (PiP) offering a more streamlined and flexible viewing experience.
+- Record your screen, audio, and video.
+- Snapshot video frames and save them as PNG images.
+- Chat with an Emoji Picker for expressing feelings, private messages, Markdown support, and conversation saving.
+- ChatGPT (powered by OpenAI) for answering questions, providing information, and connecting users to relevant resources.
+- Speech recognition for sending spoken messages.
+- Push-to-talk functionality, similar to a walkie-talkie.
+- Advanced collaborative whiteboard for teachers.
+- Real-time sharing of YouTube embed videos, video files (MP4, WebM, OGG), and audio files (MP3).
+- Full-screen mode with one-click video element zooming and pin/unpin.
+- Customizable UI themes.
+- Right-click options on video elements for additional controls.
+- Direct peer-to-peer connections for low-latency communication through WebRTC.
+- Supports REST API (Application Programming Interface).
+- Integration with Slack for enhanced communication.
+- Utilizes Sentry for error reporting.
+- And much more...
+
+- **Starting with attractive prices from only**: ***CA$ 7***
+- **Start building MiroTalk-P2P with Staas**: [Get Started](&utm_source=docs&utm_content=textlink)
+
+### Nextcloud
+
+[Nextcloud](https://nextcloud.com/?ref=staas.io) is a popular open-source software platform that provides file hosting and sharing services, similar to cloud storage platforms like Google Drive or Dropbox. However, unlike those proprietary services, Nextcloud allows individuals and organizations to host their own cloud storage solutions on their servers, giving them full control over their data and privacy.
+
+Nextcloud offers features such as file synchronization, collaborative editing of documents, calendar and contact management, video conferencing, and more. It's highly customizable and extensible through the use of apps and plugins, allowing users to tailor the platform to their specific needs.
+
+One of the key advantages of Nextcloud is its focus on security and privacy. Users can encrypt their data, control access permissions, and integrate with existing authentication systems. This makes it a popular choice for organizations and individuals who prioritize data sovereignty and privacy.
+
+- **Starting with attractive prices from only**: ***CA$ 17***
+- **Start building Nextcloud with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=nextcloud&utm_source=docs&utm_content=textlink)
+
+### NodeBB
+
+[NodeBB](https://nodebb.org/?ref=staas.io) is the next generation community forum platform. Built on open source software, we've helped hundreds of companies engage their customers. NodeBB Forum Software is powered by Node.js and supports either Redis, MongoDB, or a PostgreSQL database. It utilizes web sockets for instant interactions and real-time notifications. NodeBB takes the best of the modern web: real-time streaming discussions, mobile responsiveness, and rich RESTful read/write APIs, while staying true to the original bulletin board/forum format → categorical hierarchies, local user accounts, and asynchronous messaging.
+
+Key features of NodeBB include:
+
+- Real-time interactions: NodeBB utilizes WebSockets to enable real-time updates, providing users with a dynamic and engaging experience.
+- Plugin system: NodeBB offers a plugin architecture that allows developers to extend its functionality and customize the platform to meet specific requirements.
+- Theming engine: NodeBB comes with a flexible theming engine, allowing administrators to easily customize the look and feel of their forums.
+- Social integration: NodeBB supports social login via popular platforms such as Facebook, Twitter, and Google, making it easier for users to sign up and participate in discussions.
+- SEO-friendly: NodeBB is designed with search engine optimization (SEO) in mind, helping forums rank well in search engine results pages.
+
+Overall, NodeBB is a versatile and feature-rich forum software solution suitable for various community-based websites and discussion forums.
+
+- **Starting with attractive prices from only**: ***CA$ 17***
+- **Start building NodeBB with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=nodebb&utm_source=docs&utm_content=textlink)
+
+### Ntfy.Sh
+
+[ntfy](https://ntfy.sh/?ref=staas.io) is a simple and open-source notification service designed to send push notifications to your devices. It allows users to send messages to their phones, tablets, or desktops through a straightforward HTTP API. This service is particularly useful for developers and system administrators who need a reliable way to receive alerts or notifications from their applications, scripts, or servers.
+
+Ntfy.sh is designed to be lightweight, flexible, and easy to integrate into existing systems, making it a practical solution for a wide range of notification needs.
+
+- **Starting with attractive prices from only**: ***CA$ 7***
+- **Start building Ntfy.Sh with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=ntfy&utm_source=docs&utm_content=textlink)
+
+### OctoberCMS
+
+[October CMS](https://octobercms.com/?ref=staas.io) is a Content Management System (CMS) and web platform created out of dissatisfaction with existing frameworks. Building websites, either using code editors or certain IDE has become a convoluted and confounding process that leaves engineers dissatisfied. October CMS turns you around to the simpler side and takes you back to the basics.
+
+OctoberCMS has numerous native features to make strides for your website such as secure email notices. There’s also a long list of plugins to assist you to accomplish your goals without having to alter code. You’ll see plugins data at OctoberCMS before installing it within your dashboard.
+
+October CMS is a lightweight, back-to-the-essentials content management system developed on Laravel, and on a mission to create your web development workflow simple. It brags a very simple and quick learning bend, which ensures that you’ll be off the ground and up and running in no time at all. Like other CMS Hosting providers, Cloudways also provide the best hosting for October Cms. October CMS is adaptable and extensible through the plugin system, is effectively maintainable through its file-based framework, and permits for the easy creation of administrative back-end interfacing.
+
+October CMS is a great platform to use because it is based on Laravel which is a framework used to build cutting-edge applications. After seven years of presence, it has received positive endorsement from designers and marks a particular differentiation over coding in WordPress. WordPress is generally procedural programming, whereas Laravel is object-oriented programming.
+
+- **Starting with attractive prices from only**: ***CA$ 17***
+- **Start building OctoberCMS with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=octobercms&utm_source=docs&utm_content=textlink)
+
+### OpenCart
+
+[OpenCart](https://www.opencart.com/?ref=staas.io) is an open-source eCommerce platform, which means you can download and update it free of cost. It is based on PHP and MVC architecture that works on a MySQL or PostgreSQL database and uses various HTML components. Also, you are not liable to pay any monthly fee for using OpenCart. It comes with a robust store management caliber, which states that you can benefit from its in-built SEO, manage customers, products, coupon codes, tax rules, orders, and more.
+
+Moreover, OpenCart allows you to pick exceptional themes and modules to expand your online store’s functionality. Furthermore, the OpenCart users get dedicated commercial or free community support.
+
+One of the most promising CMS for developing an online store, OpenCart, is based on PHP and MVC architecture. It targets offering a reliable and transparent tool for web developers to create high-performing eCommerce sites and online stores using customized modules and plugins.
+
+- **Starting with attractive prices from only**: ***CA$ 17***
+- **Installation**: [OpenCart Installation Guide]({% link docs/getting-started/intro-opencart.md %})
+- **Start building OpenCart with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=opencart&utm_source=docs&utm_content=textlink)
+
+### PhotoView
+
+[Photoview](https://photoview.github.io/?ref=staas.io) is a simple and user-friendly photo gallery that's made for photographers HELLO and aims to provide an easy and fast way to navigate directories, with thousands of high resolution photos.
+
+You configure Photoview to look for photos and videos within a directory on your file system. The scanner will then automatically pick up your media and start to generate thumbnail images to make browsing really fast. It's worth noting that Photoview will never actually touch you media, it only needs read access and it saves thumbnails to a cache independent of the original media.
+
+When the media has been scanned it will show up on the website, organised in the same way as on the filesystem. From the website it is also possible to see your media on a world map, provided the image files have embedded location information.
+
+- **Starting with attractive prices from only**: ***CA$ 7***
+- **Start building PhotoView with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=photoview&utm_source=docs&utm_content=textlink)
 
 
 ### There's more... is comming soon
