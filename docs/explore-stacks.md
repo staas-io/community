@@ -611,6 +611,65 @@ When the media has been scanned it will show up on the website, organised in the
 - **Starting with attractive prices from only**: ***CA$ 7***
 - **Start building PhotoView with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=photoview&utm_source=docs&utm_content=textlink)
 
+### Pocketbase
+
+[Pocketbase](https://pocketbase.io/?ref=staas.io) is a open Source backend for your next SaaS and Mobile app in 1 file. Use as a standalone app OR as a framework, that you can extend via Go and JavaScript hooks to create your own custom portable backend, consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management, convenient dashboard UI and simple REST-ish API.
+
+Pocketbase is designed to simplify the backend development process, allowing developers to focus more on building the frontend and business logic of their applications. It is especially useful for prototyping, small to medium-sized projects, and situations where a lightweight and flexible backend solution is needed.
+
+- **Starting with attractive prices from only**: ***CA$ 7***
+- **Start building Pocketbase with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=pocketbase&utm_source=docs&utm_content=textlink)
+
+### RocketChat
+
+[Rocket.Chat](https://rocket.chat/?ref=staas.io) is an open-source fully customizable communications platform developed in JavaScript for organizations with high standards of data protection. We are the ultimate Free Open Source Solution for team communications, enabling real-time conversations between colleagues, with other companies or with your customers, regardless of how they connect with you. The result is an increase in productivity and customer satisfaction rates. Every day, tens of millions of users in over 150 countries and in organizations such as Deutsche Bahn, The US Navy, and Credit Suisse trust Rocket.Chat to keep their communications completely private and secure.
+
+Rocket.Chat is suitable for organizations of all sizes, from small teams to large enterprises, looking for a secure, customizable, and feature-rich communication platform.
+
+- **Starting with attractive prices from only**: ***CA$ 17***
+- **Start building RocketChat with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=rocketchat&utm_source=docs&utm_content=textlink)
+
+### SearXNG
+
+[SearXNG](https://docs.searxng.org/?ref=staas.io) is an advanced fork of the open-source metasearch engine Searx. It is designed to aggregate results from various search engines while protecting user privacy. Here are its main features and benefits:
+
+- Privacy-Focused: SearXNG does not track users or store any personal data. It anonymizes search queries to prevent search engines from profiling users.
+- Metasearch Capabilities: It aggregates search results from multiple search engines and sources, providing a comprehensive view of search results. Users can query various categories, such as general web, images, news, files, IT, science, social media, and more.
+- Customizable: SearXNG is highly customizable. Users can adjust settings to filter search results, choose which search engines to query, and customize the user interface.
+- Open Source: Being open-source, SearXNG allows developers to inspect the code, contribute to its development, and deploy their own instances.
+- Self-Hosted: Users can host their own instance of SearXNG, ensuring complete control over the search environment and data. This is particularly useful for organizations and individuals concerned with privacy and data security.
+- Plugins and Extensions: SearXNG supports plugins and extensions, allowing additional functionalities and integrations with other services and tools.
+- API Access: It offers an API that developers can use to integrate search functionalities into other applications and services.
+- Community and Support: SearXNG has an active community that contributes to its development and provides support through forums, documentation, and other resources.
+- User-Friendly Interface: It provides a clean and intuitive user interface, making it easy for users to perform searches and access results quickly.
+- Decentralized Search: By combining results from various search engines and sources, SearXNG promotes a decentralized approach to web search, reducing reliance on any single search engine.
+
+Overall, SearXNG is an excellent choice for users who prioritize privacy and want a customizable, open-source metasearch engine. It combines the power of multiple search engines while maintaining user anonymity and providing flexibility in search operations.
+
+- **Starting with attractive prices from only**: ***CA$ 47***
+- **Start building SearXNG with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=searxng&utm_source=docs&utm_content=textlink)
+
+### Shaarli
+
+[Shaarli](https://shaarli.readthedocs.io/en/master/?ref=staas.io) is an open-source, self-hosted bookmarking service designed to help users manage and share links. It is lightweight and easy to use, providing a simple yet effective way to organize and access web links. Here are some of its key features and benefits:
+
+- Self-Hosted: Shaarli is designed to be hosted on your own server, giving you full control over your bookmarks and data. This ensures privacy and security, as no third-party services are involved.
+- Bookmark Management: Users can save, organize, and categorize web links. It supports tagging, making it easy to sort and search for specific bookmarks.
+- Link Sharing: Shaarli allows users to share their bookmarks with others. You can make your bookmarks public or keep them private, depending on your preference.
+- Simple and Lightweight: Shaarli is known for its simplicity and lightweight nature. It doesn't require a database, which makes it easy to set up and maintain.
+- Markdown Support: It supports Markdown for formatting notes and descriptions, allowing users to add detailed annotations to their bookmarks.
+- Search and Filter: Shaarli includes robust search and filter functionalities, making it easy to find specific links based on tags, keywords, or descriptions.
+- Customization: Being open-source, Shaarli can be customized to fit specific needs. Users can modify the source code, add new features, and change the user interface as required.
+- Import/Export: It supports importing and exporting bookmarks, making it easy to migrate from other bookmarking services or backup your data.
+- Plugins and Themes: Shaarli supports plugins and themes, allowing users to extend its functionality and customize its appearance.
+- Community and Support: There is an active community of users and developers who contribute to the project, provide support, and create plugins and themes.
+
+Shaarli is a great solution for individuals or organizations looking for a private, self-hosted alternative to cloud-based bookmarking services. Its focus on simplicity, privacy, and flexibility makes it an appealing choice for managing and sharing web links effectively.
+
+- **Starting with attractive prices from only**: ***CA$ 7***
+- **Start building Shaarli with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=shaarli&utm_source=docs&utm_content=textlink)
+
+
 
 ### There's more... is comming soon
 
