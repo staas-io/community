@@ -669,9 +669,201 @@ Shaarli is a great solution for individuals or organizations looking for a priva
 - **Starting with attractive prices from only**: ***CA$ 7***
 - **Start building Shaarli with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=shaarli&utm_source=docs&utm_content=textlink)
 
+### Shiori
 
+[Shiori](https://github.com/go-shiori/shiori/?ref=staas.io) is a simple bookmarks manager written in Go language. Intended as a simple clone of Pocket. You can use it as command line application or as web application. This application is distributed as a single binary, which means it can be installed and used easily.
 
-### There's more... is comming soon
+Features:
+- Simple and clean command line interface.
+- Basic bookmarks management i.e. add, edit and delete.
+- Search bookmarks by their title, tags, url and page content.
+- Import and export bookmarks from and to Netscape Bookmark file.
+- Portable, thanks to its single binary format and sqlite3 database
+- Simple web interface for those who don't want to use a command line app.
+- Where possible, by default shiori will download a static copy of the webpage in simple text and HTML format, which later can be used as an offline archive for that page.
+
+For those interested in exploring Shiori further, or contributing to its development, the source code and additional information are available on GitHub: [Shiori on GitHub](https://github.com/go-shiori/shiori/?ref=staas.io). Shiori stands out as a robust solution for managing bookmarks with a focus on privacy, simplicity, and flexibility.
+
+- **Starting with attractive prices from only**: ***CA$ 7***
+- **Installation**: [Shiori Installation Guide]({% link docs/getting-started/intro-shiori.md %})
+- **Start building Shiori with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=shiori&utm_source=docs&utm_content=textlink)
+
+### Squid HTTP Proxy
+
+[Squid Proxy](https://www.squid-cache.org/?ref=staas.io) is an open-source caching and forwarding web proxy server that operates as an intermediary between clients and servers on a network. It acts as a gateway, enabling clients to access various internet resources such as websites, files, and other content from servers.
+
+Main Functions of Squid Proxy
+- Caching: Squid Proxy stores frequently accessed web content in its cache memory. When a client requests a particular resource, Squid checks if it already has a copy of the content in its cache. If it does, Squid serves the content directly from the cache, resulting in faster response times and reduced network bandwidth usage.
+- Forwarding: Squid Proxy can also forward client requests to web servers on behalf of the clients. It retrieves the requested content from the server and delivers it back to the client. This enables the proxy server to enhance security and provide additional services such as access control, content filtering, and traffic optimization.
+- Access Control: Squid Proxy offers extensive access control mechanisms, allowing administrators to define policies for restricting or allowing specific clients, IP addresses, or content types. This enables organizations to enforce internet usage policies, block malicious websites, prevent unauthorized access, and filter content based on predefined rules.
+- Authentication: Squid Proxy supports various authentication methods, including username/password, NTLM, LDAP, and more. This allows administrators to implement user-based access controls and track individual user activities. Authentication also enables the proxy server to provide personalized services and enforce different access levels based on user privileges.
+- Content Filtering: Squid Proxy can be configured to filter web content based on predefined rules or policies. This feature allows organizations to block or restrict access to certain websites, control the type of content that can be downloaded, and protect users from malicious or inappropriate content.
+- Traffic Optimization: Squid Proxy includes features such as request and response modification, protocol optimization, and compression. These capabilities help optimize network traffic, reduce latency, and improve overall network performance.
+- Squid Proxy is highly flexible and customizable, offering a wide range of configuration options and support for various protocols such as HTTP, HTTPS, FTP, and more. It is widely used in enterprise networks, educational institutions, ISPs, and other environments where efficient caching, content control, and network optimization are desired.
+
+- **Starting with attractive prices from only**: ***CA$ 7***
+- **Start building Squid HTTP Proxy with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=squid&utm_source=docs&utm_content=textlink)
+
+### Tasks.Md
+
+[Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md?ref=staas.io) is a task management application that uses markdown files as cards. Tasks.md: A self-hosted, file based task management board that supports Markdown syntax.
+
+Features:
+- Create cards, lanes and tags in a modern and responsive interface;
+- Write cards as Markdown files;
+- Easy to install with a single Docker image;
+- Light and dark themes synced with operating system settings;
+- Heavily customizable with 3 default color themes (Adwaita, Nord and Catppuccin);
+- Support for subpath based reverse-proxy with an environment variable for base path;
+- Can be installed as PWA.
+
+Benefits:
+- Simplicity: Tasks.md offers a straightforward way to manage tasks without the need for complex software.
+- Flexibility: Its markdown format allows for easy customization and adaptation to various workflows.
+- Accessibility: Can be accessed and edited on any device with a text editor that supports markdown.
+- Collaboration: Enables easy sharing and version control, making it suitable for team projects.
+
+Tasks.md is an effective and flexible tool for managing tasks, leveraging the simplicity of markdown to provide a robust task management solution.
+
+- **Starting with attractive prices from only**: ***CA$ 7***
+- **Start building Tasks.Md with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=taskmd&utm_source=docs&utm_content=textlink)
+
+### Trilium Notes
+
+[Trilium Notes](https://github.com/zadam/trilium?ref=staas.io) is a hierarchical note-taking application with focus on building large personal knowledge bases.
+
+Features:
+- Rich WYSIWYG note editing including e.g. tables, images and math with markdown autoformat
+- Support for editing notes with source code, including syntax highlighting
+- Notes can be arranged into arbitrarily deep tree
+- A single note can be placed into multiple places in the tree (see cloning)
+- Fast and easy navigation between notes, full text search and note hoisting
+- Seamless note versioning
+- Note attributes can be used for note organization, querying and advanced scripting
+- Synchronization with self-hosted sync server
+- Sharing (publishing) notes to public internet
+- Strong note encryption with per-note granularity
+- Relation maps and link maps for visualizing notes and their relations
+- Scales well in both usability and performance upwards of 100 000 notes
+- Evernote and Markdown import & export
+- Web Clipper for easy saving of web content
+- REST API for automation
+
+Trilium Notes is a versatile and comprehensive note-taking application that caters to users who need a powerful and organized system for managing their notes and knowledge. Its combination of rich features, security, and customization options makes it a strong choice for both personal and professional use.
+
+- **Starting with attractive prices from only**: ***CA$ 7***
+- **Start building Trilium Notes with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=triliumnotes&utm_source=docs&utm_content=textlink)
+
+### Vaultwarden
+
+[Vaultwarden](https://www.vaultwarden.ca/?ref=staas.io) (formerly known as Bitwarden_RS) is an open-source password management server that is compatible with the Bitwarden ecosystem. It provides a lightweight and self-hosted alternative to the official Bitwarden server, allowing users to securely store and manage their passwords, notes, and other sensitive information.
+
+Use Cases:
+- Personal Use: Individuals can use Vaultwarden to securely store and manage their passwords and sensitive information.
+- Family: Families can share a self-hosted Vaultwarden server to manage and share passwords among family members securely.
+- Businesses: Small to medium-sized businesses can deploy Vaultwarden to manage and control access to credentials and sensitive data within their organization.
+
+Benefits:
+- Privacy and Control: Self-hosting ensures that you have full control over your data and who can access it.
+- Resource Efficiency: Its lightweight nature allows it to run on low-power hardware.
+- Cost Savings: Avoids the subscription fees associated with many commercial password management solutions.
+
+Vaultwarden is an excellent choice for individuals and organizations seeking a secure, efficient, and cost-effective password management solution. Its compatibility with the Bitwarden ecosystem, combined with its lightweight and customizable nature, makes it a versatile tool for managing sensitive information securely.
+
+- **Starting with attractive prices from only**: ***CA$ 7***
+- **Start building Vaultwarden with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=vaultwarden&utm_source=docs&utm_content=textlink)
+
+### Vikunja
+
+[Vikunja](https://vikunja.cloud/?ref=staas.io) is an open-source, self-hosted task management and collaboration tool designed to help individuals and teams organize their work and tasks efficiently. It provides features similar to those of popular project management tools like Trello, Asana, and Todoist, but with the flexibility and control that comes with hosting it yourself.
+
+Key features of Vikunja include:
+- Task Management: Create, assign, and manage tasks with due dates, priorities, labels, and attachments.
+- Project Management: Organize tasks into projects and lists, allowing for structured project planning and execution.
+- Collaboration: Share tasks and projects with team members, enabling collaboration and teamwork.
+- Kanban Boards: Visualize tasks and workflows using Kanban boards, making it easy to track progress and manage work in a visual manner.
+- Calendar Integration: Integrate with calendars to keep track of deadlines and schedules.
+- Notifications and Reminders: Receive notifications and set reminders to stay on top of tasks and deadlines.
+- Customizable Workflows: Tailor workflows to fit specific needs and preferences.
+- Data Privacy and Security: Since it is self-hosted, users have complete control over their data, ensuring privacy and security.
+
+Vikunja aims to provide a flexible and robust task management solution for users who prefer open-source software and the ability to host their own tools. It is designed to be easy to set up and use, with a clean and intuitive interface.
+
+- **Starting with attractive prices from only**: ***CA$ 7***
+- **Start building Vikunja with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=vikunja&utm_source=docs&utm_content=textlink)
+
+### Wiki.Js
+
+[Wiki.js](https://js.wiki/?ref=staas.io) is a powerful, open-source, and modern wiki engine designed for documentation and knowledge management. It is built on Node.js, making it highly performant and capable of handling a variety of use cases for personal or organizational documentation needs. Here are some of its key features:
+- Markdown Editing: Supports Markdown, making it easy to create and format content with a simple syntax.
+- WYSIWYG Editor: Offers a rich text editor for those who prefer a more visual approach to content creation.
+- Authentication: Supports multiple authentication methods, including LDAP, OAuth, and local authentication.
+- Access Control: Granular permissions and access control to manage who can view, edit, and administer the wiki.
+- Version Control: Tracks changes and allows for versioning, making it easy to review and revert to previous versions of pages.
+- Search Functionality: Advanced search capabilities to quickly find content within the wiki.
+- Multi-language Support: Supports multiple languages, allowing for localized content.
+- Customizable Themes and Layouts: Offers a variety of themes and the ability to customize the look and feel of the wiki.
+- Integration: Integrates with various services and tools, including Google Analytics, Microsoft Teams, and more.
+- Self-hosted: Provides full control over data and deployment, with support for running on various environments, including Docker.
+
+Wiki.js aims to provide a comprehensive and flexible platform for documentation and knowledge management, with a modern interface and a rich set of features that cater to both technical and non-technical users. Its open-source nature allows for extensive customization and community-driven improvements.
+
+- **Starting with attractive prices from only**: ***CA$ 7***
+- **Start building Wiki.Js with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=wikijs&utm_source=docs&utm_content=textlink)
+
+### Wordpress
+
+[WordPress](https://wordpress.org/?ref=staas.io) is a popular open-source content management system (CMS) that is used to create and manage websites, blogs, and online stores. Originally designed as a blogging platform, WordPress has evolved into a versatile tool that powers a significant portion of the web. Here are some key aspects of WordPress:
+- User-Friendly Interface: WordPress offers a user-friendly interface that allows individuals with little to no technical knowledge to create and manage their websites easily.
+- Customization: It provides a wide range of themes and plugins that allow users to customize the appearance and functionality of their websites according to their needs.
+- Blogging Platform: While WordPress has expanded beyond its origins as a blogging platform, it still remains a popular choice for bloggers due to its robust blogging features.
+- Content Management: WordPress makes it easy to publish, manage, and organize various types of content, including articles, images, videos, and more.
+- SEO-Friendly: WordPress is designed with search engine optimization (SEO) in mind, making it easier for websites built on the platform to rank well in search engine results.
+- Community and Support: WordPress has a large and active community of users, developers, and contributors who provide support, tutorials, and resources to help users get the most out of the platform.
+- Scalability: WordPress is highly scalable, making it suitable for websites of all sizes, from small personal blogs to large enterprise websites.
+- Open Source: Being open-source means that WordPress is free to use and can be modified and customized to suit specific needs. This also encourages a vibrant ecosystem of developers contributing to its improvement.
+
+Overall, WordPress is a versatile and powerful platform that empowers individuals and businesses to create and manage their online presence effectively.
+
+- **Starting with attractive prices from only**: ***CA$ 7***
+- **Installation**: [Wordpress Installation Guide]({% link docs/getting-started/intro-wordpress.md %})
+- **Start building Wordpress with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=wordpress&utm_source=docs&utm_content=textlink)
+
+### Cubarimoe
+
+[Cubarimoe](https://cubari.moe/?ref=staas.io), this website is an image proxy. It takes images from other websites and displays them in a better manga-oriented reader, Cubari. Cubari does not host any of the content you are viewing. Just like your computer does not store or own all the images you see on the internet, Cubari is doing the same thing. We are simply a service that lets you view other data on the internet using our custom UI. This reader was born while developing Guya.moe, the website to host Kaguya. After a while we added a lot of useful features, and now we branched it into a separate domain. We don't host anything, this is just a web image viewer that can parse other websites.
+
+- **Starting with attractive prices from only**: ***CA$ 7***
+- **Start building Cubarimoe with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=cubarimoe&utm_source=docs&utm_content=textlink)
+
+### LANraragi
+
+[LANraragi](https://github.com/Difegue/LANraragi?ref=staas.io) is a open source server for archival of comics/manga, running on Mojolicious + Redis. Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.
+
+Features
+- Stores your comics in archive format. (zip/rar/targz/lzma/7z/xz/cbz/cbr/pdf supported, barebones support for epub)
+- Read archives directly from your web browser: the server reads from within compressed files using temporary folders.
+- Read your archives in dedicated reader software using the built-in OPDS Catalog (now with PSE support!)
+- Use the Client API to interact with LANraragi from other programs (Available for many platforms!)
+- Two different user interfaces : compact archive list with thumbnails-on-hover, or thumbnail view.
+- Choose from 5 preinstalled responsive library styles, or add your own with CSS.
+- Full Tag support with Namespaces: Add your own or import them from other sources using Plugins.
+- Store archives in either arbitary or dynamic Categories to sort your Library easily
+- Import metadata using Plugins automatically when archives are added to LANraragi.
+- Download archives from the Internet directly to the server, while using the aforementioned automatic metadata import
+Backup your database as JSON to carry your tags over to another LANraragi instance.
+
+Overall, LANraragi is a versatile and feature-rich tool for manga and doujinshi enthusiasts who want to organize, read, and share their collections within a local network environment.
+
+- **Starting with attractive prices from only**: ***CA$ 7***
+- **Start building LANraragi with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=lanraragi&utm_source=docs&utm_content=textlink)
+
+### Trudesk
+
+Trudesk is an open-source help desk/ticketing solution. Open Source Help Desk - Simply Organized. Quickly resolve issues & task with an easy-to-use solution. Built with one goal in mind, to keep work loads organized and simple. This is the source for Trudesk Community Edition. For the more comprehensive, cloud-hosted version, please see Trudesk Cloud at Trudesk.io.
+
+- **Starting with attractive prices from only**: ***CA$ 7***
+- **Start building Trudesk with Staas**: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=trudesk&utm_source=docs&utm_content=textlink)
 
 ## Conclusion
 
