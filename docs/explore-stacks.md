@@ -9,14 +9,14 @@ nav_order: 2
 Welcome to our hosting and cloud services platform! We provide a wide array of services designed to cater to developers, businesses, and enthusiasts. Our robust infrastructure supports numerous programming languages, databases, content management systems (CMS), and various specialized applications. Below, we present a detailed summary of all the services we offer, including suggested prices and installation instructions for each service.
 
 **TABLE OF CONTENTS**
-1. Programming Languages
-<ul style="margin-left: 8px;">
-  <li>• [Go](https://docs.staas.io/docs/explore-stacks.html#go)</li>
+<p><a href="#programming-languages">Programming Languages</a></p>
+<ul style="margin-left: 10px; margin-bottom: 5px;">
+  <li><a href="#go">Go</a></li>
 </ul>
 
-2. Databases
+<p><a href="#databases">Databases</a></p>
 
-3. Applications
+<p><a href="#applications">Applications</a></p>
 
 ---
 
