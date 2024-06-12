@@ -8,15 +8,15 @@ nav_order: 2
 
 Welcome to our hosting and cloud services platform! We provide a wide array of services designed to cater to developers, businesses, and enthusiasts. Our robust infrastructure supports numerous programming languages, databases, content management systems (CMS), and various specialized applications. Below, we present a detailed summary of all the services we offer, including suggested prices and installation instructions for each service.
 
-**TABLE OF CONTENTS**
-<p><a href="#programming-languages">Programming Languages</a></p>
-<ul style="margin-left: 10px; margin-bottom: 5px;">
+<p style="margin-bottom: 0; font-weight: 400;">TABLE OF CONTENTS</p>
+<p style="margin-bottom: 0; margin-top: 0;"><a href="#programming-languages">1. Programming Languages</a></p>
+<ul style="margin-left: 10px;">
   <li><a href="#go">Go</a></li>
 </ul>
 
-<p><a href="#databases">Databases</a></p>
+<p style="margin-bottom: 0;"><a href="#databases">2. Databases</a></p>
 
-<p><a href="#applications">Applications</a></p>
+<p style="margin-bottom: 0;"><a href="#applications">3. Applications</a></p>
 
 ---
 
