@@ -11,7 +11,7 @@ Welcome to our hosting and cloud services platform! We provide a wide array of s
 **TABLE OF CONTENTS**
 1. Programming Languages
 <ul style="margin-left: 8px;">
-  <li>• [Go]({% link /docs/explore-stacks.md %}#go)</li>
+  <li>• [Go](https://docs.staas.io/docs/explore-stacks.html#go)</li>
 </ul>
 
 2. Databases
