@@ -12,11 +12,73 @@ Welcome to our hosting and cloud services platform! We provide a wide array of s
 <p style="margin-bottom: 0; margin-top: 0;"><a href="#programming-languages">1. Programming Languages</a></p>
 <ul style="margin-left: 10px;">
   <li><a href="#go">Go</a></li>
+  <li><a href="#java">Java</a></li>
+  <li><a href="#microsoft-net-runtime">Microsoft .Net Runtime</a></li>
+  <li><a href="#nodejs">Node.js</a></li>
+  <li><a href="#php">PHP</a></li>
+  <li><a href="#python">Python</a></li>
+  <li><a href="#scratch">Scratch</a></li>
 </ul>
 
 <p style="margin-bottom: 0;"><a href="#databases">2. Databases</a></p>
+<ul style="margin-left: 10px;">
+  <li><a href="#arangodb">ArangoDB</a></li>
+  <li><a href="#mongodb">MongoDB</a></li>
+  <li><a href="#neo4j-graph-db">Neo4j Graph DB</a></li>
+  <li><a href="#postgresql">PostgreSQL</a></li>
+  <li><a href="#redis">Redis</a></li>
+  <li><a href="#valkey">Valkey</a></li>
+  <li><a href="#nocodb">NocoDB</a></li>
+</ul>
 
 <p style="margin-bottom: 0;"><a href="#applications">3. Applications</a></p>
+<ul style="margin-left: 10px;">
+  <li><a href="#answer">Answer</a></li>
+  <li><a href="#anythingllm">AnythingLLM</a></li>
+  <li><a href="#kafka">Kafka</a></li>
+  <li><a href="#litellm">LiteLLM</a></li>
+  <li><a href="#laravel">Laravel</a></li>
+  <li><a href="#archivebox">ArchiveBox</a></li>
+  <li><a href="#bludit">Bludit</a></li>
+  <li><a href="#calibre-web">Calibre-Web</a></li>
+  <li><a href="#chatwoot">Chatwoot</a></li>
+  <li><a href="#dbgate">DbGate</a></li>
+  <li><a href="#excalidraw">Excalidraw</a></li>
+  <li><a href="#flatboard">Flatboard</a></li>
+  <li><a href="#ghost">Ghost</a></li>
+  <li><a href="#grav-cms">Grav-CMS</a></li>
+  <li><a href="#htmly">HTMLy</a></li>
+  <li><a href="#illa">ILLA</a></li>
+  <li><a href="#linkding">Linkding</a></li>
+  <li><a href="#logseq">Logseq</a></li>
+  <li><a href="#mautic">Mautic</a></li>
+  <li><a href="#memos">Memos</a></li>
+  <li><a href="#microweber">Microweber</a></li>
+  <li><a href="#mirotalk-p2p">MiroTalk-P2P</a></li>
+  <li><a href="#nextcloud">Nextcloud</a></li>
+  <li><a href="#nodebb">NodeBB</a></li>
+  <li><a href="#ntfysh">Ntfy.Sh</a></li>
+  <li><a href="#octobercms">OctoberCMS</a></li>
+  <li><a href="#opencart">OpenCart</a></li>
+  <li><a href="#photoview">PhotoView</a></li>
+  <li><a href="#pocketbase">Pocketbase</a></li>
+  <li><a href="#rocketchat">RocketChat</a></li>
+  <li><a href="#searxng">SearXNG</a></li>
+  <li><a href="#shaarli">Shaarli</a></li>
+  <li><a href="#shiori">Shiori</a></li>
+  <li><a href="#squid-http-proxy">Squid HTTP Proxy</a></li>
+  <li><a href="#tasksmd">Tasks.Md</a></li>
+  <li><a href="#trilium-notes">Trilium Notes</a></li>
+  <li><a href="#vaultwarden">Vaultwarden</a></li>
+  <li><a href="#vikunja">Vikunja</a></li>
+  <li><a href="#wikijs">Wiki.Js</a></li>
+  <li><a href="#wordpress">Wordpress</a></li>
+  <li><a href="#cubarimoe">Cubarimoe</a></li>
+  <li><a href="#lanraragi">LANraragi</a></li>
+  <li><a href="#trudesk">Trudesk</a></li>
+</ul>
+
+<p style="margin-bottom: 0;"><a href="#conclusion">Conclusion</a></p>
 
 ---
 
@@ -101,6 +163,13 @@ Another main feature of Python is that it supports modules and packages. Both th
 - Starting with attractive prices from only: ***CA$ 7***
 - Installation: [Python Installation Guide]({% link docs/getting-started/intro-python.md %})
 - Start building Python with Staas: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=python&utm_source=docs&utm_content=textlink)
+
+### Scratch
+
+The scratch image is the most minimal image in Docker and is most useful in the context of building really minimum images
+
+- Starting with attractive prices from only: ***CA$ 7***
+- Start building Scratch with Staas: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=scratch&utm_source=docs&utm_content=textlink)
 
 ---
 
