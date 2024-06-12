@@ -10,9 +10,9 @@ Welcome to our hosting and cloud services platform! We provide a wide array of s
 
 **TABLE OF CONTENTS**
 1. Programming Languages
-<dl>
-  <dd>• [Go](#go)</dd>
-</dl>
+<ul style="margin-left: 8px;">
+  <li>• [Go]({% link /docs/explore-stacks.md %}#go)</li>
+</ul>
 
 2. Databases
 
