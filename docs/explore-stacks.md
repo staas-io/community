@@ -4,6 +4,10 @@ layout: default
 nav_order: 2
 ---
 
+<p align="center">
+	<img style="width: 100%; max-width: 1280px;" src="../assets/images/explore-the-stacks/explore-the-stacks-at-staas-your-ultimate-cloud-platform.webp" alt="Explore the Stacks at Staas: Your Ultimate Cloud Platform" />
+</p>
+
 # Explore the Stacks at Staas: Your Ultimate Cloud Platform
 
 Welcome to our hosting and cloud services platform! We provide a wide array of services designed to cater to developers, businesses, and enthusiasts. Our robust infrastructure supports numerous programming languages, databases, content management systems (CMS), and various specialized applications. Below, we present a detailed summary of all the services we offer, including suggested prices and installation instructions for each service.
