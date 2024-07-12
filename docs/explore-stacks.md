@@ -59,6 +59,7 @@ Welcome to our hosting and cloud services platform! We provide a wide array of s
   <li><a href="#memos">Memos</a></li>
   <li><a href="#microweber">Microweber</a></li>
   <li><a href="#mirotalk-p2p">MiroTalk-P2P</a></li>
+  <li><a href="#moodle">Moodle</a></li>
   <li><a href="#nextcloud">Nextcloud</a></li>
   <li><a href="#nodebb">NodeBB</a></li>
   <li><a href="#ntfysh">Ntfy.Sh</a></li>
@@ -622,6 +623,26 @@ Features:
 
 - Starting with attractive prices from only: ***CA$ 7***
 - Start building MiroTalk-P2P with Staas: [Get Started](&utm_source=docs&utm_content=textlink)
+
+### Moodle
+
+So, just what is Moodle? Put simply, [Moodle](https://moodle.org/?ref=staas.io) is a **Learning Management System** (LMS) used to manage, deliver and measure training and learning online.
+
+Moodle is perhaps the most well-known LMS platform of its kind and is certainly widely used. Launched in 2002, it provides a way for those who manage training to deliver it flexibly and efficiently to different audiences.
+
+You could think of it as the virtual equivalent of an online training provider – a self-contained learning environment used initially by educational institutions. It has since developed to become a hugely beneficial tool for organisations across all sectors, from retail and healthcare to local government and charities.
+
+What does Moodle LMS do?
+The short answer is a Moodle LMS allows you to build and upload e-learning content, deliver it to your learners, assess them on that content, track their progress and recognise their achievements. Obviously there’s more to it in reality, but Moodle is the ultimate system when it comes to simplicity and delivering e-learning content to users.
+- Build & manage courses: One of the key benefits of Moodle software is the way it enables you as a system administrator or course creator to build and manage your course content. You may create content yourself using Moodle’s standard course activities, upload SCORM files or acquire ready-made, off-the-shelf content from a provider. Either way you can easily upload it to your Moodle LMS and organise it with ease using the drag and drop functionality.
+- Manage assessments: Providing content for your learners is one thing, assessing them on it is another. Moodle LMS allows you to create and manage assessments for your learners, ensuring they are engaging with their learning content and achieving the desired outcomes.
+- Track learner progress: The ability to track learner progress is another big advantage of using Moodle LMS vs cumbersome and often chaotic offline or manual ways of managing remote learning or simply using a Content Management System (CMS). Some of the main ways of tracking learner progress within Moodle include activity and course completion, course reports, analytics and gradebooks.
+- Recognise & reward achievements: Once you’ve assessed your learners on the content and tracked their progress, you can reward them based on achievements to recognise their progress. Moodle offers shareable badges that you can award to users, keeping them engaged and helping you quickly identify who has completed which courses.
+
+Moodle's extensive features, flexibility, and robust support make it a popular choice for creating and managing online learning environments.
+
+- Starting with attractive prices from only: ***$ 5***
+- Start building Moodle with Staas: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=moodle&utm_source=docs&utm_content=textlink)
 
 ### Nextcloud
 
