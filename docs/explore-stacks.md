@@ -60,7 +60,7 @@ Welcome to our hosting and cloud services platform! We provide a wide array of s
   <li><a href="#microweber">Microweber</a></li>
   <li><a href="#mirotalk-p2p">MiroTalk-P2P</a></li>
   <li><a href="#moodle">Moodle</a></li>
-  <li><a href="#n8n-workflow-automation-tool">N8n - Workflow Automation Tool</a></li>
+  <li><a href="#n8n">N8n</a></li>
   <li><a href="#nextcloud">Nextcloud</a></li>
   <li><a href="#nodebb">NodeBB</a></li>
   <li><a href="#ntfysh">Ntfy.Sh</a></li>
@@ -645,7 +645,7 @@ Moodle's extensive features, flexibility, and robust support make it a popular c
 - Starting with attractive prices from only: ***$5***
 - Start building Moodle with Staas: [Get Started](https://www.staas.io/dashboard/create_stack?project_type=moodle&utm_source=docs&utm_content=textlink)
 
-### N8n - Workflow Automation Tool
+### N8n
 
 [n8n.io](https://n8n.io/?ref=staas.io) is an innovative open-source workflow automation tool designed to streamline and simplify the integration and automation of complex tasks across various applications and services. With its intuitive, visual workflow builder, users can effortlessly create, manage, and optimize powerful automation workflows without needing extensive coding knowledge. Supporting over 200 built-in integrations and allowing for custom code execution, n8n.io provides unparalleled flexibility and control, making it the ideal solution for individuals, businesses, and enterprises seeking to enhance productivity and efficiency. Whether self-hosted for maximum control or utilizing the hassle-free cloud version, n8n.io empowers users to seamlessly connect their digital ecosystem, automate repetitive processes, and unlock new levels of operational excellence.
 
