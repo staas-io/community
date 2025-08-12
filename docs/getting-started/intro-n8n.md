@@ -43,7 +43,7 @@ Once you created the stack, you will be greeted with a Stack Management screen.
 
 In this screen, you can pretty much control everything regarding to your stack/instance with just a few mouse clicks.
 
-Checking out your new domain by clicking on [Domain](#){: .btn .btn-purple .ml-2 } button. It will open up your designated domain in a new tab.
+Checking out your new domain by clicking on [Domain](javascript:void(0)){: .btn .btn-purple .ml-2 } button. It will open up your designated domain in a new tab.
 
 ## Set up your N8N page
 You will be greeted with the "owner account setup" process. Here you fill in the necessary information such as: *email, first name, last name, password* to create an admin account for your N8N application.
