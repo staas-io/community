@@ -2,7 +2,7 @@
 layout: default
 title: Deploy a NodeJS App with Staas.io
 parent: Getting Started
-nav_order: 4
+nav_order: 5
 ---
 
 

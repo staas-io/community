@@ -2,7 +2,7 @@
 layout: default
 title: Deploy a PHP App with Staas.io
 parent: Getting Started
-nav_order: 6
+nav_order: 7
 ---
 
 

@@ -2,7 +2,7 @@
 layout: default
 title: Deploy a OpenCart app with Staas.io
 parent: Getting Started
-nav_order: 5
+nav_order: 6
 ---
 
 # Introduction

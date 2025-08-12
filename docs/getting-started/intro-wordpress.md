@@ -2,7 +2,7 @@
 layout: default
 title: Deploy a WordPress app with Staas.io
 parent: Getting Started
-nav_order: 9
+nav_order: 10
 ---
 
 # Introduction
