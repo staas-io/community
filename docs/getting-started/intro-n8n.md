@@ -24,7 +24,7 @@ Staas.io puts you in the driver's seat, offering granular control over your appl
 1.  **Navigate to Your Staas.io Dashboard:** Access your personalized control center at [Staas.io Dashboard](https://www.staas.io/dashboard?utm_source=docs).
     ![](../../assets/images/getting-started/staas-dashboard.png)
 
-2.  **Initiate a New Stack:** Click on [Create new stack +](https://www.staas.io/dashboard/stack_selector){: .btn .btn-purple .ml-2 .mr-2 }. This is where your automation journey begins! From our diverse stack selector, you can choose from a wide array of Programming Languages, Databases, and pre-configured Applications. For this tutorial, we’ll strategically select **“N8N - Workflow automation tool”**.
+2.  **Initiate a New Stack:** Click on [Create new stack +](https://www.staas.io/dashboard/stack_selector){: .btn .btn-purple .mx-1 .-mb-2 }. This is where your automation journey begins! From our diverse stack selector, you can choose from a wide array of Programming Languages, Databases, and pre-configured Applications. For this tutorial, we’ll strategically select **“N8N - Workflow automation tool”**.
     ![](../../assets/images/getting-started/n8n-select-n8n.png)
 
 3.  **Configure Your High-Performance N8N Stack:** On the **Create Stack** page, fine-tune your deployment settings for optimal performance and scalability:
@@ -44,7 +44,7 @@ Upon successful creation, you'll be greeted by the comprehensive **Stack Managem
 
 ![](../../assets/images/getting-started/n8n-stack-screen.png)
 
-Instantly check out your new N8N domain by simply clicking the [Domain](javascript:void(0)){: .btn .btn-purple .ml-2 } button. It will open your fully provisioned N8N instance in a new tab, ready for action!
+Instantly check out your new N8N domain by simply clicking the [Domain](javascript:void(0)){: .btn .btn-purple .mx-1 .-mb-2 } button. It will open your fully provisioned N8N instance in a new tab, ready for action!
 
 ## Set Up Your N8N Page: From Deployment to Workflow Creation in Seconds
 
